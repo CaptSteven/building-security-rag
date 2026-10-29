@@ -1,6 +1,6 @@
 # GitHub 仓库与本地资料
 
-仓库： https://github.com/CaptSteven/building-security-rag 。本轮创建为私有仓库。
+仓库： https://github.com/CaptSteven/building-security-rag 。2026-10-28 创建为私有仓库；2026-10-29 按用户要求改为公开仓库。
 
 GitHub 保存前后端源码、离线处理脚本、SQL、依赖锁、资料来源清单、处理规则及审计报告。上传仓库不等于已部署在线服务；前端、FastAPI 和 PostgreSQL 仍按本地说明启动。
 
