@@ -92,3 +92,5 @@ uv run uvicorn security_rag.api:app --host 127.0.0.1 --port 8000
 代码与处理记录保存于公开仓库 [CaptSteven/building-security-rag](https://github.com/CaptSteven/building-security-rag)。PDF 原件、SQLite 数据库及密钥保留本地；克隆后需先恢复原件并重建目录库，详见 [上传范围与恢复步骤](docs/github.md)。GitHub 上传不代表在线服务已部署。
 
 免费托管方案与上线前需要完成的适配，见 [部署方案调研（2026-10-29）](docs/free-deployment.md)。
+
+Render 只读展示部署：[配置与数据恢复说明](docs/render-deployment.md)，使用根目录 render.yaml 和 Dockerfile。云端是否上线以 Render 实际部署状态为准。

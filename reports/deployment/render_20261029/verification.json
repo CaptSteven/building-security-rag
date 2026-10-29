@@ -1,0 +1,22 @@
+{
+  "snapshot_restore": {
+    "downloaded_pdfs": 110,
+    "pages": 1888,
+    "cleaned_pages": 1888,
+    "processing_runs": 1
+  },
+  "same_origin_ui_status": 200,
+  "keyword_hits": {
+    "raw": 6,
+    "cleaned": 6
+  },
+  "remote_pdf_without_local_original": {
+    "asset": "A008",
+    "verified_sha256": "6f2a35a7510b528c8a7b3bd7c80cee0d5eb9fd38543e679c0fe73e3d722ee1fb",
+    "bytes": 1385512
+  },
+  "quality_csv_status": 200,
+  "tests": "28 passed, 1 skipped",
+  "docker_build": "blocked locally: Docker daemon cannot resolve registry-1.docker.io; image not fully verified",
+  "cloud_deployment": "pending Render account login"
+}

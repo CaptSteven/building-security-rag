@@ -10,6 +10,7 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=(PROJECT_ROOT / ".env", PROJECT_ROOT / "backend/.env"), extra="ignore")
     database_url: str = "postgresql://rag:rag_local_only@127.0.0.1:55432/security_rag"
     library_database: Path = PROJECT_ROOT / "database/sqlite/library.sqlite3"
+    remote_pdf_enabled: bool = False
     api_key: str = ""
     chat_base_url: str = "https://api.deepseek.com"
     chat_api_key: str = ""

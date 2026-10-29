@@ -46,3 +46,7 @@ Cloudflare R2 Standard 提供每月 10 GB-month 免费存储额度，另有请�
 3. PDF 在线预览确定保留时，再配置对象存储。
 
 尚未登录或开通这些服务，未接受新平台协议，未产生托管资源费用。公开 GitHub 仓库不代表已授予第三方厂商文档再许可；代码和处理产物的来源说明继续保留。
+
+## 实施进度补充（2026-10-29）
+
+已新增 render.yaml、Dockerfile、校验后的只读 SQLite 压缩快照及官方 PDF 哈希校验读取。首版采用一个免费 Docker 服务提供同域前端/API，源码继续分离。实际云端部署仍待 Render 账号登录和平台构建验证；最新说明见 render-deployment.md。

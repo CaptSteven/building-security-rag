@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: sentinel-security-rag
+    runtime: docker
+    plan: free
+    region: oregon
+    branch: main
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    envVars:
+      - key: REMOTE_PDF_ENABLED
+        value: "true"
+      - key: CHAT_API_KEY
+        value: ""
+      - key: API_KEY
+        value: ""

@@ -37,3 +37,5 @@ SELECT processing_run_id,rules_version FROM processing_runs;
 ```
 
 本轮发布前的总库、批次目录库和来源清单备份位于 logs/processing/cleaning_20261027T084605Z/before-publish/；历史备份不随当前库更新。
+
+只读展示部署快照位于 snapshots/；独立于 sqlite/ 当前工作库。快照带压缩/数据库哈希与处理批次，生成时核对原件，镜像构建时恢复，见 docs/render-deployment.md。

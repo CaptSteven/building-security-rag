@@ -130,7 +130,13 @@ def pdf_file(run_id:str,asset_id:str):
     path=(PROJECT_ROOT/row['path']).resolve()
     if not path.is_relative_to((PROJECT_ROOT/'data/raw/pdfs').resolve()) or path.suffix.lower()!='.pdf':
         raise HTTPException(403,'文件路径不允许访问')
-    if not path.is_file():raise HTTPException(404,'原件文件缺失')
+    if not path.is_file():
+        if not settings().remote_pdf_enabled:
+            raise HTTPException(404,'原件文件缺失')
+        from .remote_pdf import fetch_pdf
+        data=fetch_pdf(row['source_url'],row['sha256'])
+        return Response(data,media_type='application/pdf',headers={
+            'X-Content-Type-Options':'nosniff','Cache-Control':'public, max-age=3600'})
     return FileResponse(path,media_type='application/pdf',filename=path.name,content_disposition_type='inline',
                         headers={'X-Content-Type-Options':'nosniff','Cache-Control':'private, no-store'})
 

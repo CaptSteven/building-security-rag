@@ -47,3 +47,7 @@ git push
 ```
 
 不要强制加入已忽略的密钥、原件或数据库，也不要把历史 logs/ 快照当作当前脚本执行。
+
+## Render 展示快照补充（2026-10-29）
+
+现增加 database/snapshots/library.sqlite3.gz 及其校验元数据供容器构建恢复。它是只读展示快照，纳入 Git；本地当前 *.sqlite3 工作库、PDF 原件和密钥仍不上传。部署入口、恢复与验证见 render-deployment.md。

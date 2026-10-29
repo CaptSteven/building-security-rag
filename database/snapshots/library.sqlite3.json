@@ -1,0 +1,16 @@
+{
+  "format_version": 1,
+  "database_sha256": "6595673a857a6bcd91b9971fff7a205577527300312d0634112a14bf49ff21b5",
+  "gzip_sha256": "58133ebdda6f4d78d9d41b34e75f4928ce2400abb4fb9d510c8a3d66622c88eb",
+  "counts": {
+    "downloaded_pdfs": 110,
+    "pages": 1888,
+    "cleaned_pages": 1888,
+    "processing_runs": 1
+  },
+  "source_report": "reports/library/summary.json",
+  "processing_runs": [
+    "cleaning_20261027T084605Z"
+  ],
+  "scope": "只读资料目录；不包含 PDF 文件或模型密钥"
+}
