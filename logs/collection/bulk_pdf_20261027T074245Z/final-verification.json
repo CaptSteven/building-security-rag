@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-27T07:52:46.462239+00:00",
+  "physical_pdf_files": 110,
+  "unique_sha256": 110,
+  "new_pdf_files": 101,
+  "pdf_pages": 1888,
+  "sqlite_integrity": "ok",
+  "foreign_keys": "ok",
+  "markdown_local_links": "all resolve",
+  "summary_sha256": "a796a0d66b4f7ee576509010d0038092242fbeb64012b87d03c949618a330ad5",
+  "library_builder_sha256": "b9220b145d967b267b98d275ba0465d66baa899c9e2e5c043174e7cc012c6f8c",
+  "tests_passed": 18,
+  "tests_skipped": 1,
+  "skip_reason": "PostgreSQL integration not configured",
+  "extraction": "本轮新增 PDF 均尚未提取；首批145页提取文本保留"
+}

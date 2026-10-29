@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-a1601/support",
+  "final_url": "https://www.axis.com/products/axis-a1601/support",
+  "retrieved_at": "2026-10-27T07:46:00.542549+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793026863\"",
+  "last_modified": "Mon, 26 Oct 2026 15:01:03 GMT",
+  "sha256": "d8ffcf6e56c4e85e836bda9827c480457462fca0f2a4a1a54d643ad96e96a230",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/1ccb7c231932da73.html",
+  "source_id": "1ccb7c231932da73"
+}

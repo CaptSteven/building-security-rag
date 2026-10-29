@@ -1,0 +1,38 @@
+{
+  "verified_at": "2026-10-27T08:21:11.084302+00:00",
+  "frontend": "React + TypeScript + Vite",
+  "backend": "FastAPI + read-only SQLite",
+  "data": {
+    "pdfs": 110,
+    "pdf_pages": 1888,
+    "extracted_documents": 9,
+    "extracted_pages": 145,
+    "unextracted_documents": 101,
+    "original_pdf_hashes": "all unchanged"
+  },
+  "checks": {
+    "frontend_production_build": "passed",
+    "backend_and_pipeline_tests": "21 passed, 1 skipped",
+    "skip_reason": "PostgreSQL dedicated integration database is not configured",
+    "browser_overview": "110 PDFs / 1888 pages / 9 extracted / 101 pending",
+    "browser_filter": "门禁26份，分页正常",
+    "browser_pdf": "PDF.js 原件渲染及翻页通过",
+    "browser_keyword_search": "PoE返回6条证据",
+    "browser_citation_page": "S1跳转到I8116-E原件第4页",
+    "csv_export": "UI下载成功；HTTP复核为110条数据加表头",
+    "startup_script": "uv run python backend/dev.py 成功启动两端",
+    "clean_browser_console": "重启后测试周期无错误/警告",
+    "responsive": "390px移动布局无水平溢出，图标导航保留ARIA名称"
+  },
+  "boundaries": [
+    "只读目录接口不依赖PostgreSQL",
+    "未调用真实聊天API",
+    "未切分或向量化",
+    "清洗/切分任务界面只展示实际状态，不执行任务"
+  ],
+  "screenshots": [
+    "reports/ui/overview-desktop.png",
+    "reports/ui/overview-mobile.png",
+    "reports/ui/documents-desktop.png"
+  ]
+}

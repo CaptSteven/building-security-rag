@@ -1,0 +1,590 @@
+[
+  {
+    "old_path": "security_rag/service.py",
+    "new_path": "backend/src/security_rag/service.py",
+    "sha256_before": "3d4296177703e2cac9773f930050ed4032d8632666cb5a870b77f517c4e6b924",
+    "bytes": 7669
+  },
+  {
+    "old_path": "security_rag/db.py",
+    "new_path": "backend/src/security_rag/db.py",
+    "sha256_before": "2099b74ab3abc49c91a241396d16af71a1db2123ae1a6c41ea1b32159575b5c1",
+    "bytes": 3362
+  },
+  {
+    "old_path": "security_rag/config.py",
+    "new_path": "backend/src/security_rag/config.py",
+    "sha256_before": "f6a1cd595f8410ca83dea4e0c071e8532d8c0728c6070cb30cd263c3c25c475b",
+    "bytes": 933
+  },
+  {
+    "old_path": "security_rag/models.py",
+    "new_path": "backend/src/security_rag/models.py",
+    "sha256_before": "e743d9dc7e053b13a61c54c8034514880f4c188a0104933a51b116c2a8381eea",
+    "bytes": 2723
+  },
+  {
+    "old_path": "security_rag/__init__.py",
+    "new_path": "backend/src/security_rag/__init__.py",
+    "sha256_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "old_path": "security_rag/api.py",
+    "new_path": "backend/src/security_rag/api.py",
+    "sha256_before": "aa188144df7ff3b82d4b0bb51740c7c537c1932e62c75673e1d063370fadfb52",
+    "bytes": 4152
+  },
+  {
+    "old_path": "security_rag/providers.py",
+    "new_path": "backend/src/security_rag/providers.py",
+    "sha256_before": "383bd6251d798f6fdc15dfe228662dc4c8e955e05eaf7ab6fea6ee18f87de243",
+    "bytes": 3293
+  },
+  {
+    "old_path": "security_rag/cli.py",
+    "new_path": "backend/src/security_rag/cli.py",
+    "sha256_before": "7ca5f74788704b5f4b758c581b0827d3b315d8980f8ced099bcb45fcb6262ebc",
+    "bytes": 2001
+  },
+  {
+    "old_path": "tests/test_core.py",
+    "new_path": "backend/tests/test_core.py",
+    "sha256_before": "381fd57aa50db2624cc46e8db69b215214c817e56b351c8054d6c9293a98a3b5",
+    "bytes": 5090
+  },
+  {
+    "old_path": "tests/test_collection.py",
+    "new_path": "pipelines/tests/test_collection.py",
+    "sha256_before": "867beca04566ec83c824b9d034a7bae21e4b138cd03be3310eef870197669567",
+    "bytes": 864
+  },
+  {
+    "old_path": "tests/test_integration.py",
+    "new_path": "backend/tests/test_integration.py",
+    "sha256_before": "6e55cdda1848b8c4209d565d0717f60af029d69c103775702df97478badc5c16",
+    "bytes": 2315
+  },
+  {
+    "old_path": "scripts/organize_sample.py",
+    "new_path": "pipelines/collection/organize_sample.py",
+    "sha256_before": "675fddb51f311c944080bb3b2b07b12557fc578d0e52e53a99dfd3b12ca35980",
+    "bytes": 10386
+  },
+  {
+    "old_path": "scripts/collect_sample.py",
+    "new_path": "pipelines/collection/collect_sample.py",
+    "sha256_before": "6584fd49cb350b8523a3865f7d00274b1a6b52f18c06fa9526b6d8917b4dbf39",
+    "bytes": 15764
+  },
+  {
+    "old_path": "scripts/discover_sources.py",
+    "new_path": "pipelines/collection/discover_sources.py",
+    "sha256_before": "9656fa2df0bbf723d2ec71a7ba0bcaa6c2aedf1cf89873e7bbf21b37f72bd32a",
+    "bytes": 2261
+  },
+  {
+    "old_path": "examples/query.json",
+    "new_path": "backend/examples/query.json",
+    "sha256_before": "97a4644c230bbf9164f0f873c5610365d3a7d0da10ef32addc6c56312cd4658f",
+    "bytes": 188
+  },
+  {
+    "old_path": "examples/demo-camera.json",
+    "new_path": "backend/examples/demo-camera.json",
+    "sha256_before": "2f8d54a47023c62a4c613124ab0fa38fd842e16a619dd6f7913d5481b1f80ca8",
+    "bytes": 716
+  },
+  {
+    "old_path": ".env.example",
+    "new_path": "backend/.env.example",
+    "sha256_before": "1d58877e9ada5fa4488a92cb3b9ca4117a2d3a58f9808799b0ff94df032c4024",
+    "bytes": 456
+  },
+  {
+    "old_path": "compose.yaml",
+    "new_path": "database/postgresql/compose.yaml",
+    "sha256_before": "d957f6dba01157ecedbd9f752d101844c6995677b130c11ed1be566b3bed1326",
+    "bytes": 435
+  },
+  {
+    "old_path": "research/catalog/optex-flx-p-dt.html",
+    "new_path": "data/raw/webpages/source_catalog/optex-flx-p-dt.html",
+    "sha256_before": "8d7e151621a43f896d95aae5c51403712a536ef9946d450a923aa4be56f851e5",
+    "bytes": 538412
+  },
+  {
+    "old_path": "research/catalog/axis-a1210.html",
+    "new_path": "data/raw/webpages/source_catalog/axis-a1210.html",
+    "sha256_before": "b1b1c82ac7973e37aaa1ea13cf2ccc88e111b6dec123749e2ff841b8c41692b4",
+    "bytes": 341581
+  },
+  {
+    "old_path": "research/catalog/axis-i8116-e.json",
+    "new_path": "data/metadata/source_catalog/axis-i8116-e.json",
+    "sha256_before": "104a6886f6352a8e12befa417691278ce180026abf0f8015adf1ae7c3bb00f0a",
+    "bytes": 433
+  },
+  {
+    "old_path": "research/catalog/navi.optex.net-robots.txt",
+    "new_path": "data/raw/webpages/source_catalog/navi.optex.net-robots.txt",
+    "sha256_before": "99f0443688ad5f7ae2af453317f160294801be1c3b35dd1ebd4bef25628a49f4",
+    "bytes": 122
+  },
+  {
+    "old_path": "research/catalog/www.optex-europe.com-robots.txt",
+    "new_path": "data/raw/webpages/source_catalog/www.optex-europe.com-robots.txt",
+    "sha256_before": "b66ad7d4aa6b5b1f9e15340d298827b06c436897a1092fb70b91a29171dacc89",
+    "bytes": 906
+  },
+  {
+    "old_path": "research/catalog/axis-m2035-le.json",
+    "new_path": "data/metadata/source_catalog/axis-m2035-le.json",
+    "sha256_before": "3de141fc8ea62988476124a30198adfacdca0ecfd0b78f283908ba15eb7060b8",
+    "bytes": 444
+  },
+  {
+    "old_path": "research/catalog/www.axis.com-robots.txt",
+    "new_path": "data/raw/webpages/source_catalog/www.axis.com-robots.txt",
+    "sha256_before": "d8fb2940051d3c19d466e7dba6badd6d06baf260db15b6a2c48b7f3e02cc4e51",
+    "bytes": 1656
+  },
+  {
+    "old_path": "research/catalog/axis-m2035-le.html",
+    "new_path": "data/raw/webpages/source_catalog/axis-m2035-le.html",
+    "sha256_before": "16262b908d492fae79ab9f2ce4b340145c0fa677f9dab8941929e0a2eaa5aa21",
+    "bytes": 418551
+  },
+  {
+    "old_path": "research/catalog/discovery.txt",
+    "new_path": "data/raw/webpages/source_catalog/discovery.txt",
+    "sha256_before": "86c3d80c012b27eb29adfda5a4229468c8a209b8d1fd3737701f5929014e8ddf",
+    "bytes": 57336
+  },
+  {
+    "old_path": "research/catalog/axis-a1210.json",
+    "new_path": "data/metadata/source_catalog/axis-a1210.json",
+    "sha256_before": "d64b73fcc017c56df270214fcdd8ded36c872da73a7e8830a3f85aff6df38bcd",
+    "bytes": 423
+  },
+  {
+    "old_path": "research/catalog/optex-flx-p-dt.json",
+    "new_path": "data/metadata/source_catalog/optex-flx-p-dt.json",
+    "sha256_before": "e3bf6e9cf554b66291f93f1975f6ab48abd77a7346ee73430d329f48c06d1072",
+    "bytes": 581
+  },
+  {
+    "old_path": "research/catalog/help.axis.com-robots.txt",
+    "new_path": "data/raw/webpages/source_catalog/help.axis.com-robots.txt",
+    "sha256_before": "7326dae682604e5e9a8fa8597daaafecb8277799b9a89b9a65b7012916bd2c7a",
+    "bytes": 34656
+  },
+  {
+    "old_path": "research/catalog/axis-i8116-e.html",
+    "new_path": "data/raw/webpages/source_catalog/axis-i8116-e.html",
+    "sha256_before": "b52d3862d8767f720963f4930eafeff40c92edd9208e278b56f2f4b9dac40a0a",
+    "bytes": 346599
+  },
+  {
+    "old_path": "research/catalog/optex.imgix.net-robots.txt",
+    "new_path": "data/raw/webpages/source_catalog/optex.imgix.net-robots.txt",
+    "sha256_before": "41dea18baf0c8bff07d96b8e8293ec5705882a9d5ee40cb96a3e44d63fddf9b9",
+    "bytes": 48
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/catalog.sqlite3",
+    "new_path": "database/sqlite/security_sample_20261027T070841Z/catalog.sqlite3",
+    "sha256_before": "ae254de53a7fcb90264a029a9993adebcdb7ddeaf148e2eef3660a8cd540739f",
+    "bytes": 335872
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/MANUAL_ACTIONS.md",
+    "new_path": "reports/datasets/security_sample_20261027T070841Z/MANUAL_ACTIONS.md",
+    "sha256_before": "a95c6adc0b5bf34154dad641cf91e50fa8b56920c9bb342c51ea79d63f39e5f1",
+    "bytes": 2527
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/README.md",
+    "new_path": "reports/datasets/security_sample_20261027T070841Z/README.md",
+    "sha256_before": "f79cccd72783e5ee49b32eac93b4bd295162b81e72eb4486daceaf17ff254c9f",
+    "bytes": 4355
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/manifest.csv",
+    "new_path": "data/metadata/runs/security_sample_20261027T070841Z/manifest.csv",
+    "sha256_before": "82ae4b761c643dd66cddd313fbeb615c874062cb8f519740e4b87d42d382460f",
+    "bytes": 5749
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/manifest.json",
+    "new_path": "data/metadata/runs/security_sample_20261027T070841Z/manifest.json",
+    "sha256_before": "671f81e9026190c7aabb6ab92ff86c425683451432fee3f8e057a154e8a62092",
+    "bytes": 19391
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/verification.json",
+    "new_path": "reports/datasets/security_sample_20261027T070841Z/verification.json",
+    "sha256_before": "b97338dc9a5e85e52a7b758bab41253a66ef50248f8acc50d7cac1fbb86f7e4f",
+    "bytes": 2684
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/logs/collector-original.py",
+    "new_path": "logs/collection/security_sample_20261027T070841Z/collector-original.py",
+    "sha256_before": "56156dca57e650e983a6e50e75988fb8743fd3670d43ca1df546f8739ef189ae",
+    "bytes": 15534
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/logs/uv-current.lock",
+    "new_path": "logs/collection/security_sample_20261027T070841Z/uv-current.lock",
+    "sha256_before": "6c5a9894a762bca41bc2b281782dc2bf759243bc91f03b4ceb4a22a76361e30b",
+    "bytes": 129356
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/logs/organize_sample.py",
+    "new_path": "logs/collection/security_sample_20261027T070841Z/organize_sample.py",
+    "sha256_before": "675fddb51f311c944080bb3b2b07b12557fc578d0e52e53a99dfd3b12ca35980",
+    "bytes": 10386
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/logs/A003_axis-m2035-le-video.log",
+    "new_path": "logs/collection/security_sample_20261027T070841Z/A003_axis-m2035-le-video.log",
+    "sha256_before": "a3561ed401bfe4106674e4afaddaf8d7c7f2e0f2ca0397fae8cfb8adf68f3649",
+    "bytes": 590
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/logs/uv-original.lock",
+    "new_path": "logs/collection/security_sample_20261027T070841Z/uv-original.lock",
+    "sha256_before": "810235d11994b854347dccfab150874116103221c187709225dbcabf999e034c",
+    "bytes": 83857
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/logs/events.jsonl",
+    "new_path": "logs/collection/security_sample_20261027T070841Z/events.jsonl",
+    "sha256_before": "c045e490ab001f4d03e285a3d501c5d25996c3d33165ba9dabbfab6af007fc08",
+    "bytes": 22696
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/logs/A010_axis-i8116-e-video.log",
+    "new_path": "logs/collection/security_sample_20261027T070841Z/A010_axis-i8116-e-video.log",
+    "sha256_before": "bfef498f3b9d3152cacb0f5f9b51ba0b3ae420b5ca267c33d8556164b5b35b76",
+    "bytes": 590
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/logs/pdf-extraction-v2.log",
+    "new_path": "logs/collection/security_sample_20261027T070841Z/pdf-extraction-v2.log",
+    "sha256_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/logs/discover_sources.py",
+    "new_path": "logs/collection/security_sample_20261027T070841Z/discover_sources.py",
+    "sha256_before": "9656fa2df0bbf723d2ec71a7ba0bcaa6c2aedf1cf89873e7bbf21b37f72bd32a",
+    "bytes": 2261
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages_v2/A002_axis-m2035-le_installation.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v2/A002_axis-m2035-le_installation.jsonl",
+    "sha256_before": "c1552a88512a1b374351e753a0baff7977160a62a0cd260a563e5311d6cecff4",
+    "bytes": 74188
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages_v2/A008_axis-i8116-e_datasheet.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v2/A008_axis-i8116-e_datasheet.jsonl",
+    "sha256_before": "fa00b9c54c4c9fde0bb2560a579924aef71c81e17b1cc619d74064764d03fc97",
+    "bytes": 15864
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages_v2/A001_axis-m2035-le_datasheet.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v2/A001_axis-m2035-le_datasheet.jsonl",
+    "sha256_before": "7ed72b31db2fad6b88a5da827883b6ec2b99f26534bd5471bcd34b3e7e20cf48",
+    "bytes": 9613
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages_v2/A009_axis-i8116-e_installation.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v2/A009_axis-i8116-e_installation.jsonl",
+    "sha256_before": "9dc4e683697e57653a336cee2cc0ec26952dcae578c264dc502f34cfedadf261",
+    "bytes": 71189
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages_v2/A011_optex-flx-p-dt_datasheet.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v2/A011_optex-flx-p-dt_datasheet.jsonl",
+    "sha256_before": "afabbb433609714d53d6a742588cbf71de99be3ccf79d21cf4676d8e564333ff",
+    "bytes": 4881
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages_v2/A006_axis-a1210_installation.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v2/A006_axis-a1210_installation.jsonl",
+    "sha256_before": "6b38fe829e533fbe23f911c8d815c45fd3225342c66169e4bbf3da270144722a",
+    "bytes": 89258
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages_v2/A004_axis-a1210_datasheet.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v2/A004_axis-a1210_datasheet.jsonl",
+    "sha256_before": "ac4f52108862214406e0a9e5ac48d42f9b5543dbd2d128389f2e7b191e0bb78d",
+    "bytes": 10372
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages_v2/A007_axis-a1210_comparison.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v2/A007_axis-a1210_comparison.jsonl",
+    "sha256_before": "fbac3f9b5e24ae492c457f6fca70a556f33ff88a4eef7e6243741a23ba4cbb58",
+    "bytes": 1914
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages_v2/A005_axis-a1210_wiring.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v2/A005_axis-a1210_wiring.jsonl",
+    "sha256_before": "1a6d5c0c82f1e11639e3b3b412caf7b4da12c89ef1a76b399980183ab108e339",
+    "bytes": 19419
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/optex-flx-p-dt.html",
+    "new_path": "data/raw/webpages/security_sample_20261027T070841Z/optex-flx-p-dt.html",
+    "sha256_before": "8d7e151621a43f896d95aae5c51403712a536ef9946d450a923aa4be56f851e5",
+    "bytes": 538412
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/axis-a1210.html",
+    "new_path": "data/raw/webpages/security_sample_20261027T070841Z/axis-a1210.html",
+    "sha256_before": "b1b1c82ac7973e37aaa1ea13cf2ccc88e111b6dec123749e2ff841b8c41692b4",
+    "bytes": 341581
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/axis-i8116-e.json",
+    "new_path": "data/metadata/source_snapshots/security_sample_20261027T070841Z/axis-i8116-e.json",
+    "sha256_before": "104a6886f6352a8e12befa417691278ce180026abf0f8015adf1ae7c3bb00f0a",
+    "bytes": 433
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/navi.optex.net-robots.txt",
+    "new_path": "data/raw/webpages/security_sample_20261027T070841Z/navi.optex.net-robots.txt",
+    "sha256_before": "99f0443688ad5f7ae2af453317f160294801be1c3b35dd1ebd4bef25628a49f4",
+    "bytes": 122
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/optex-manual-index.html",
+    "new_path": "data/raw/webpages/security_sample_20261027T070841Z/optex-manual-index.html",
+    "sha256_before": "b655769bc40b9a042888ca2852ca53e41731f1fff445126efe7b54ecc992a597",
+    "bytes": 5831
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/axis-m2035-le.json",
+    "new_path": "data/metadata/source_snapshots/security_sample_20261027T070841Z/axis-m2035-le.json",
+    "sha256_before": "3de141fc8ea62988476124a30198adfacdca0ecfd0b78f283908ba15eb7060b8",
+    "bytes": 444
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/www.axis.com-robots.txt",
+    "new_path": "data/raw/webpages/security_sample_20261027T070841Z/www.axis.com-robots.txt",
+    "sha256_before": "d8fb2940051d3c19d466e7dba6badd6d06baf260db15b6a2c48b7f3e02cc4e51",
+    "bytes": 1656
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/axis-m2035-le.html",
+    "new_path": "data/raw/webpages/security_sample_20261027T070841Z/axis-m2035-le.html",
+    "sha256_before": "16262b908d492fae79ab9f2ce4b340145c0fa677f9dab8941929e0a2eaa5aa21",
+    "bytes": 418551
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/optex-manual-index.json",
+    "new_path": "data/metadata/source_snapshots/security_sample_20261027T070841Z/optex-manual-index.json",
+    "sha256_before": "bd9535c63780fb6c4a1fb38539bf253057dddf58862d708740cbbc51ae89492e",
+    "bytes": 328
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/axis-a1210.json",
+    "new_path": "data/metadata/source_snapshots/security_sample_20261027T070841Z/axis-a1210.json",
+    "sha256_before": "d64b73fcc017c56df270214fcdd8ded36c872da73a7e8830a3f85aff6df38bcd",
+    "bytes": 423
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/optex-flx-p-dt.json",
+    "new_path": "data/metadata/source_snapshots/security_sample_20261027T070841Z/optex-flx-p-dt.json",
+    "sha256_before": "e3bf6e9cf554b66291f93f1975f6ab48abd77a7346ee73430d329f48c06d1072",
+    "bytes": 581
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/axis-i8116-e.html",
+    "new_path": "data/raw/webpages/security_sample_20261027T070841Z/axis-i8116-e.html",
+    "sha256_before": "b52d3862d8767f720963f4930eafeff40c92edd9208e278b56f2f4b9dac40a0a",
+    "bytes": 346599
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/sources/optex.imgix.net-robots.txt",
+    "new_path": "data/raw/webpages/security_sample_20261027T070841Z/optex.imgix.net-robots.txt",
+    "sha256_before": "41dea18baf0c8bff07d96b8e8293ec5705882a9d5ee40cb96a3e44d63fddf9b9",
+    "bytes": 48
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/A005_axis-a1210_wiring.png",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/A005_axis-a1210_wiring.png",
+    "sha256_before": "52259054c969c2d3798298a8b6ec7f16e7a4fac27f4db82a72719033fb5e6617",
+    "bytes": 19594
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/A001_axis-m2035-le_datasheet.png",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/A001_axis-m2035-le_datasheet.png",
+    "sha256_before": "b24fa112ea069317cf60c738941887fc7a8dd1904c5c0b1528af7e99ba35a469",
+    "bytes": 63017
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/A004_axis-a1210_datasheet.png",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/A004_axis-a1210_datasheet.png",
+    "sha256_before": "721141cb9c99e75bcba2ec5dfd2bbd380d492f9898fbeeeaf0906e404098fdcb",
+    "bytes": 43837
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/A002_axis-m2035-le_installation.png",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/A002_axis-m2035-le_installation.png",
+    "sha256_before": "db22f6eec7e136b27f718657378bb7a01cbe84aa211e400c8f9ba8873d9944e3",
+    "bytes": 27498
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/A006_axis-a1210_installation.png",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/A006_axis-a1210_installation.png",
+    "sha256_before": "e0479b81fb8caf22d69caeea59b5b6690e9d0570acf18fe67b1e0c82a6a7fb13",
+    "bytes": 17992
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/A009_axis-i8116-e_installation.png",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/A009_axis-i8116-e_installation.png",
+    "sha256_before": "4acd1eb96d03a33c46fbac3bd4e95884289262947b3284f2f52298bf4939cbbf",
+    "bytes": 19673
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/contact-sheet.jpg",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/contact-sheet.jpg",
+    "sha256_before": "2a5486b14667975490e26d9e85fec55ae99a2300f519d610a04138a356cb24da",
+    "bytes": 133404
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/A008_axis-i8116-e_datasheet.png",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/A008_axis-i8116-e_datasheet.png",
+    "sha256_before": "679a2d366531a3868e466390d0763db9ac34726d56ca4d6ad6aad862e922688d",
+    "bytes": 54048
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/A011_optex-flx-p-dt_datasheet.png",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/A011_optex-flx-p-dt_datasheet.png",
+    "sha256_before": "99abd2764206a6a2cde51186fd5ff6c58bf14990c2b101b2afc7e5945803058f",
+    "bytes": 297114
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/previews/A007_axis-a1210_comparison.png",
+    "new_path": "reports/previews/security_sample_20261027T070841Z/A007_axis-a1210_comparison.png",
+    "sha256_before": "ac9bcfe05ccedb2ef97e1591f53db07d186fd04fc400c5dffb945aae4752682a",
+    "bytes": 141028
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages/A002_axis-m2035-le_installation.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v1/A002_axis-m2035-le_installation.jsonl",
+    "sha256_before": "5c2b617f978fff9739b366a6693e1a83a9b54d257e33b5094c6c73d892920d29",
+    "bytes": 72424
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages/A008_axis-i8116-e_datasheet.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v1/A008_axis-i8116-e_datasheet.jsonl",
+    "sha256_before": "47d9cf8b27e1be94365d9e4002fe1607278b18771b90141c70c106697ba84c3e",
+    "bytes": 15521
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages/A001_axis-m2035-le_datasheet.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v1/A001_axis-m2035-le_datasheet.jsonl",
+    "sha256_before": "6c1ab60d1b5aaccbd2ff85150fa0795bace5ee982e17daa1529906bda60e199b",
+    "bytes": 9368
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages/A009_axis-i8116-e_installation.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v1/A009_axis-i8116-e_installation.jsonl",
+    "sha256_before": "93b4720e0b0f5792ce5c86eb42fc627586ea6b44cc0e7c7310af8a5801caf797",
+    "bytes": 69621
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages/A011_optex-flx-p-dt_datasheet.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v1/A011_optex-flx-p-dt_datasheet.jsonl",
+    "sha256_before": "2ee46b441dd10d0f19f280d71b54923dbc51a0b145d19a99bf6908b5c49efe25",
+    "bytes": 4783
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages/A006_axis-a1210_installation.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v1/A006_axis-a1210_installation.jsonl",
+    "sha256_before": "473b58db5a274e5ed514adc2f5e616e1d53939e17af7593a499520cb5af44d3f",
+    "bytes": 87200
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages/A004_axis-a1210_datasheet.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v1/A004_axis-a1210_datasheet.jsonl",
+    "sha256_before": "1b08ce5873533960463f2ff446e85e767fc190177da24ceb52ee8f3f08c7e9ef",
+    "bytes": 10078
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages/A007_axis-a1210_comparison.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v1/A007_axis-a1210_comparison.jsonl",
+    "sha256_before": "3968dfbd4084a0bb4de135446297fb3dddab8f2ebf38d932857221f87de6884b",
+    "bytes": 1865
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/pages/A005_axis-a1210_wiring.jsonl",
+    "new_path": "data/interim/extracted/security_sample_20261027T070841Z/v1/A005_axis-a1210_wiring.jsonl",
+    "sha256_before": "a28487777416c34af235b7a0f304cb0aa4761f9c73d1db57778127885da7ed8a",
+    "bytes": 18733
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/raw/A005_axis-a1210_wiring.pdf",
+    "new_path": "data/raw/pdfs/security_sample_20261027T070841Z/access_control/axis-a1210/A005_axis-a1210_wiring.pdf",
+    "sha256_before": "8b5a1adda92cb967390f4eab3dfe21127c69e045147be13e3f4ad3e11877202f",
+    "bytes": 4048641
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/raw/A004_axis-a1210_datasheet.pdf",
+    "new_path": "data/raw/pdfs/security_sample_20261027T070841Z/access_control/axis-a1210/A004_axis-a1210_datasheet.pdf",
+    "sha256_before": "50afbe4f9873d188324acd8ecca0d6873b913d29273988206833d0bee3c6ac00",
+    "bytes": 3997129
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/raw/A001_axis-m2035-le_datasheet.pdf",
+    "new_path": "data/raw/pdfs/security_sample_20261027T070841Z/video_surveillance/axis-m2035-le/A001_axis-m2035-le_datasheet.pdf",
+    "sha256_before": "89a672d4ae8ef9154a24e8010ecd32db660b3b9c4e04b8dd56cbfc230d244d95",
+    "bytes": 2985631
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/raw/A006_axis-a1210_installation.pdf",
+    "new_path": "data/raw/pdfs/security_sample_20261027T070841Z/access_control/axis-a1210/A006_axis-a1210_installation.pdf",
+    "sha256_before": "089ae4a09caaf0888a8d344fd7e6d6c225f4ce13a4ac80d7c2a2eb2dc0ca71f7",
+    "bytes": 2104155
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/raw/A002_axis-m2035-le_installation.pdf",
+    "new_path": "data/raw/pdfs/security_sample_20261027T070841Z/video_surveillance/axis-m2035-le/A002_axis-m2035-le_installation.pdf",
+    "sha256_before": "9cce78363b9572d4e37a6cd4d619cbed997f5d3626d23c581c926896697dd752",
+    "bytes": 3218016
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/raw/A009_axis-i8116-e_installation.pdf",
+    "new_path": "data/raw/pdfs/security_sample_20261027T070841Z/intercom/axis-i8116-e/A009_axis-i8116-e_installation.pdf",
+    "sha256_before": "435836e97bfd67c6ec3e44be3c181b95d36e249af2f4f15dcbbb909aeab8f2ea",
+    "bytes": 2965811
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/raw/A011_optex-flx-p-dt_datasheet.pdf",
+    "new_path": "data/raw/pdfs/security_sample_20261027T070841Z/intrusion_alarm/optex-flx-p-dt/A011_optex-flx-p-dt_datasheet.pdf",
+    "sha256_before": "d4a409fe5064a08cced4f5c8c3a6606389481b936ae4f50cb9cc6bb010800669",
+    "bytes": 4564686
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/raw/A007_axis-a1210_comparison.pdf",
+    "new_path": "data/raw/pdfs/security_sample_20261027T070841Z/access_control/axis-a1210/A007_axis-a1210_comparison.pdf",
+    "sha256_before": "051c3c4111997080c2f8025440ac8ec8396934dce903d90b308d9f4a161e6d0f",
+    "bytes": 532780
+  },
+  {
+    "old_path": "research/datasets/security_sample_20261027T070841Z/raw/A008_axis-i8116-e_datasheet.pdf",
+    "new_path": "data/raw/pdfs/security_sample_20261027T070841Z/intercom/axis-i8116-e/A008_axis-i8116-e_datasheet.pdf",
+    "sha256_before": "6f2a35a7510b528c8a7b3bd7c80cee0d5eb9fd38543e679c0fe73e3d722ee1fb",
+    "bytes": 1385512
+  },
+  {
+    "old_path": "research/README.md",
+    "new_path": "docs/history/research-readme-20261027.md",
+    "sha256_before": "f8e5d55c3c1dbab2e089466cffc7954e20f4185d2b001f0b497e0a5c3101092c",
+    "bytes": 757
+  }
+]

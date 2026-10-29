@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://help.axis.com/en-us/",
+  "final_url": "https://help.axis.com/en-us/",
+  "retrieved_at": "2026-10-27T07:45:15.020130+00:00",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "sha256": "16fde1e95e7eeec83725c645572d57fedefc147e598d77d47729408c58b65eba",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/158626cfa4067b60.html",
+  "source_id": "158626cfa4067b60"
+}

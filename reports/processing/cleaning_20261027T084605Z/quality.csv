@@ -1,0 +1,551 @@
+﻿source_run_id,asset_id,model,page,flags,raw_characters,clean_characters
+bulk_pdf_20261027T074245Z,B0005,AX-350DH,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0007,BX-1OOPLUS,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0008,BX-80N,1,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0008,BX-80N,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0011,CX-702RS,1,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0011,CX-702RS,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0018,FMX-ST,1,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0018,FMX-ST,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0020,FX-360,1,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0020,FX-360,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0022,HX-40,1,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0022,HX-40,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0023,HX-80N,1,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0023,HX-80N,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0024,family-7e68e1d268,4,numeric_layout_review,3714,3681
+bulk_pdf_20261027T074245Z,B0030,AXIS A1001 Network Door Controller,1,possible_fused_words,836,836
+bulk_pdf_20261027T074245Z,B0030,AXIS A1001 Network Door Controller,2,possible_fused_words,2430,2430
+bulk_pdf_20261027T074245Z,B0030,AXIS A1001 Network Door Controller,3,possible_fused_words,1813,1813
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,6,numeric_layout_review,1627,1627
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,12,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,29,fragmented_short_lines,292,292
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,48,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,52,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,92,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,130,sparse_text_page,4,4
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,134,sparse_text_page,4,4
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,171,sparse_text_page,5,5
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,174,sparse_text_page,4,4
+bulk_pdf_20261027T074245Z,B0032,AXIS A1001 Network Door Controller,213,sparse_text_page,5,5
+bulk_pdf_20261027T074245Z,B0033,AXIS A1001 Network Door Controller,6,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0033,AXIS A1001 Network Door Controller,16,fragmented_short_lines,923,923
+bulk_pdf_20261027T074245Z,B0033,AXIS A1001 Network Door Controller,23,fragmented_short_lines,3596,3596
+bulk_pdf_20261027T074245Z,B0033,AXIS A1001 Network Door Controller,26,fragmented_short_lines,3056,3056
+bulk_pdf_20261027T074245Z,B0033,AXIS A1001 Network Door Controller,27,fragmented_short_lines,769,769
+bulk_pdf_20261027T074245Z,B0033,AXIS A1001 Network Door Controller,28,fragmented_short_lines,144,144
+bulk_pdf_20261027T074245Z,B0034,AXIS A1210-B Network Door Controller,3,possible_fused_words,2319,2319
+bulk_pdf_20261027T074245Z,B0034,AXIS A1210-B Network Door Controller,5,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0035,AXIS A1210-B Network Door Controller,9,fragmented_short_lines,1180,1180
+bulk_pdf_20261027T074245Z,B0035,AXIS A1210-B Network Door Controller,15,fragmented_short_lines,2918,2918
+bulk_pdf_20261027T074245Z,B0035,AXIS A1210-B Network Door Controller,16,fragmented_short_lines,3013,3013
+bulk_pdf_20261027T074245Z,B0035,AXIS A1210-B Network Door Controller,19,fragmented_short_lines,2546,2546
+bulk_pdf_20261027T074245Z,B0035,AXIS A1210-B Network Door Controller,20,fragmented_short_lines,2727,2727
+bulk_pdf_20261027T074245Z,B0035,AXIS A1210-B Network Door Controller,21,fragmented_short_lines,625,625
+bulk_pdf_20261027T074245Z,B0035,AXIS A1210-B Network Door Controller,22,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0035,AXIS A1210-B Network Door Controller,42,fragmented_short_lines,150,150
+bulk_pdf_20261027T074245Z,B0036,AXIS A1214 Network Door Controller Kit,1,possible_fused_words,988,988
+bulk_pdf_20261027T074245Z,B0036,AXIS A1214 Network Door Controller Kit,2,possible_fused_words,1742,1742
+bulk_pdf_20261027T074245Z,B0036,AXIS A1214 Network Door Controller Kit,3,possible_fused_words,2068,2068
+bulk_pdf_20261027T074245Z,B0036,AXIS A1214 Network Door Controller Kit,4,possible_fused_words,2140,2140
+bulk_pdf_20261027T074245Z,B0036,AXIS A1214 Network Door Controller Kit,5,possible_fused_words,1425,1425
+bulk_pdf_20261027T074245Z,B0036,AXIS A1214 Network Door Controller Kit,6,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0036,AXIS A1214 Network Door Controller Kit,7,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0036,AXIS A1214 Network Door Controller Kit,8,possible_fused_words,1353,1353
+bulk_pdf_20261027T074245Z,B0037,AXIS A1214 Network Door Controller Kit,3,fragmented_short_lines,4255,4255
+bulk_pdf_20261027T074245Z,B0037,AXIS A1214 Network Door Controller Kit,7,fragmented_short_lines,1877,1877
+bulk_pdf_20261027T074245Z,B0037,AXIS A1214 Network Door Controller Kit,12,fragmented_short_lines,3787,3787
+bulk_pdf_20261027T074245Z,B0037,AXIS A1214 Network Door Controller Kit,15,fragmented_short_lines,2825,2825
+bulk_pdf_20261027T074245Z,B0037,AXIS A1214 Network Door Controller Kit,16,fragmented_short_lines,3336,3336
+bulk_pdf_20261027T074245Z,B0037,AXIS A1214 Network Door Controller Kit,17,fragmented_short_lines,142,142
+bulk_pdf_20261027T074245Z,B0037,AXIS A1214 Network Door Controller Kit,18,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0040,AXIS A1601 Network Door Controller,36,fragmented_short_lines,4165,4165
+bulk_pdf_20261027T074245Z,B0040,AXIS A1601 Network Door Controller,37,fragmented_short_lines,3622,3622
+bulk_pdf_20261027T074245Z,B0040,AXIS A1601 Network Door Controller,39,fragmented_short_lines,3920,3920
+bulk_pdf_20261027T074245Z,B0040,AXIS A1601 Network Door Controller,40,fragmented_short_lines,3195,3195
+bulk_pdf_20261027T074245Z,B0040,AXIS A1601 Network Door Controller,41,fragmented_short_lines,864,864
+bulk_pdf_20261027T074245Z,B0041,AXIS A1610 Network Door Controller,1,possible_fused_words,948,948
+bulk_pdf_20261027T074245Z,B0041,AXIS A1610 Network Door Controller,2,numeric_layout_review,2548,2548
+bulk_pdf_20261027T074245Z,B0041,AXIS A1610 Network Door Controller,3,possible_fused_words,2442,2442
+bulk_pdf_20261027T074245Z,B0041,AXIS A1610 Network Door Controller,4,possible_fused_words,450,450
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,7,numeric_layout_review,1842,1842
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,8,numeric_layout_review,559,559
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,22,sparse_text_page,24,24
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,23,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,25,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,26,sparse_text_page;numeric_layout_review,38,37
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,27,sparse_text_page,13,13
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,28,sparse_text_page,10,10
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,29,sparse_text_page,24,24
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,30,fragmented_short_lines,117,117
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,31,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,32,sparse_text_page,10,10
+bulk_pdf_20261027T074245Z,B0043,AXIS A1610 Network Door Controller,33,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0044,AXIS A1610-B Network Door Controller,2,numeric_layout_review,2927,2927
+bulk_pdf_20261027T074245Z,B0045,AXIS A1610-B Network Door Controller,3,fragmented_short_lines,4515,4515
+bulk_pdf_20261027T074245Z,B0045,AXIS A1610-B Network Door Controller,7,fragmented_short_lines,2140,2140
+bulk_pdf_20261027T074245Z,B0045,AXIS A1610-B Network Door Controller,13,fragmented_short_lines,4081,4081
+bulk_pdf_20261027T074245Z,B0045,AXIS A1610-B Network Door Controller,14,fragmented_short_lines,3578,3578
+bulk_pdf_20261027T074245Z,B0045,AXIS A1610-B Network Door Controller,16,fragmented_short_lines,3872,3872
+bulk_pdf_20261027T074245Z,B0045,AXIS A1610-B Network Door Controller,17,fragmented_short_lines,3111,3111
+bulk_pdf_20261027T074245Z,B0045,AXIS A1610-B Network Door Controller,18,fragmented_short_lines,3030,3030
+bulk_pdf_20261027T074245Z,B0045,AXIS A1610-B Network Door Controller,28,fragmented_short_lines,150,150
+bulk_pdf_20261027T074245Z,B0046,AXIS A1710-B Network Door Controller,1,possible_fused_words,989,989
+bulk_pdf_20261027T074245Z,B0046,AXIS A1710-B Network Door Controller,2,numeric_layout_review,2863,2863
+bulk_pdf_20261027T074245Z,B0046,AXIS A1710-B Network Door Controller,5,sparse_text_page,17,17
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,11,numeric_layout_review,1116,1116
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,12,numeric_layout_review,815,815
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,29,sparse_text_page,12,11
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,30,sparse_text_page,14,14
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,31,sparse_text_page,30,29
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,32,numeric_layout_review,68,67
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,33,numeric_layout_review,63,63
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,34,sparse_text_page,10,10
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,35,sparse_text_page,31,31
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,36,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,37,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,39,sparse_text_page,44,44
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,42,fragmented_short_lines,166,166
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,43,sparse_text_page,23,23
+bulk_pdf_20261027T074245Z,B0048,AXIS A1710-B Network Door Controller,46,sparse_text_page,7,7
+bulk_pdf_20261027T074245Z,B0049,AXIS A1810-B Network Door Controller,2,numeric_layout_review,2777,2777
+bulk_pdf_20261027T074245Z,B0049,AXIS A1810-B Network Door Controller,6,sparse_text_page,17,17
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,9,numeric_layout_review,1847,1847
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,23,sparse_text_page,11,11
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,24,sparse_text_page,14,14
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,25,sparse_text_page,29,29
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,26,numeric_layout_review,67,66
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,27,numeric_layout_review,63,63
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,28,sparse_text_page,10,10
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,29,sparse_text_page,31,31
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,30,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,31,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,33,sparse_text_page,44,44
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,36,fragmented_short_lines,166,166
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,37,sparse_text_page,23,23
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,39,numeric_layout_review,76,74
+bulk_pdf_20261027T074245Z,B0051,AXIS A1810-B Network Door Controller,40,sparse_text_page,7,7
+bulk_pdf_20261027T074245Z,B0053,AXIS A8207-VE Mk II Network Video Door Station,6,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0053,AXIS A8207-VE Mk II Network Video Door Station,26,fragmented_short_lines,2457,2457
+bulk_pdf_20261027T074245Z,B0053,AXIS A8207-VE Mk II Network Video Door Station,28,fragmented_short_lines,2122,2122
+bulk_pdf_20261027T074245Z,B0053,AXIS A8207-VE Mk II Network Video Door Station,29,fragmented_short_lines,1080,1080
+bulk_pdf_20261027T074245Z,B0056,AXIS A8207-VE Network Video Door Station,23,fragmented_short_lines,2617,2617
+bulk_pdf_20261027T074245Z,B0056,AXIS A8207-VE Network Video Door Station,25,fragmented_short_lines,2117,2117
+bulk_pdf_20261027T074245Z,B0056,AXIS A8207-VE Network Video Door Station,26,fragmented_short_lines,943,943
+bulk_pdf_20261027T074245Z,B0056,AXIS A8207-VE Network Video Door Station,27,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0057,AXIS I7010-VE Network Intercom,5,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0058,AXIS I7010-VE Network Intercom,3,fragmented_short_lines,3911,3911
+bulk_pdf_20261027T074245Z,B0058,AXIS I7010-VE Network Intercom,9,fragmented_short_lines,2813,2813
+bulk_pdf_20261027T074245Z,B0058,AXIS I7010-VE Network Intercom,11,fragmented_short_lines,2803,2803
+bulk_pdf_20261027T074245Z,B0058,AXIS I7010-VE Network Intercom,12,fragmented_short_lines,2402,2402
+bulk_pdf_20261027T074245Z,B0058,AXIS I7010-VE Network Intercom,27,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0059,AXIS I7010-VE Safety Network Intercom,5,sparse_text_page,17,17
+bulk_pdf_20261027T074245Z,B0060,AXIS I7020 Network Intercom,5,sparse_text_page,17,17
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,3,fragmented_short_lines,3846,3846
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,4,fragmented_short_lines,1997,1997
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,10,fragmented_short_lines,2841,2841
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,11,fragmented_short_lines,2401,2401
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,14,fragmented_short_lines,2051,2051
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,15,fragmented_short_lines,2214,2214
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,16,fragmented_short_lines,444,444
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,17,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,18,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,19,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,20,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,21,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,22,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,23,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,24,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,25,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,26,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,27,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,28,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0061,AXIS I7020 Network Intercom,29,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,7,fragmented_short_lines,1160,1160
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,9,fragmented_short_lines,511,511
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,16,fragmented_short_lines,844,844
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,19,fragmented_short_lines,721,721
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,20,fragmented_short_lines,684,684
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,21,fragmented_short_lines,642,642
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,22,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,23,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,24,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,25,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,26,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,27,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,28,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,29,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,30,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,31,sparse_text_page,4,4
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,32,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,33,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,34,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,35,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0063,AXIS I8016-LVE Network Video Intercom,36,fragmented_short_lines,152,152
+bulk_pdf_20261027T074245Z,B0064,AXIS I8016-LVE Network Video Intercom,7,fragmented_short_lines,154,154
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,20,fragmented_short_lines,149,148
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,21,fragmented_short_lines,214,212
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,22,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,23,sparse_text_page,30,30
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,24,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,26,sparse_text_page,35,35
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,27,numeric_layout_review,128,128
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,28,sparse_text_page,15,15
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,29,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,30,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,31,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,32,fragmented_short_lines,110,110
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,33,fragmented_short_lines,247,243
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,34,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,35,sparse_text_page,7,7
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,36,sparse_text_page,36,36
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,37,sparse_text_page,7,7
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,38,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0066,AXIS I8307-VE Network Video Intercom,39,sparse_text_page,29,29
+bulk_pdf_20261027T074245Z,B0067,AXIS I8307-VE Network Video Intercom,7,fragmented_short_lines,146,146
+bulk_pdf_20261027T074245Z,B0068,AXIS Q1805-LE Bullet Camera,8,sparse_text_page,17,17
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,4,fragmented_short_lines,1391,1391
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,20,sparse_text_page,20,20
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,21,sparse_text_page,34,32
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,22,sparse_text_page,24,24
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,23,sparse_text_page,30,30
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,24,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,25,sparse_text_page,14,14
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,26,sparse_text_page,30,30
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,27,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,30,fragmented_short_lines,85,82
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,31,sparse_text_page,22,22
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,32,numeric_layout_review,52,52
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,33,sparse_text_page;numeric_layout_review,38,38
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,35,fragmented_short_lines,80,73
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,36,sparse_text_page;numeric_layout_review,39,39
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,38,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,39,sparse_text_page,15,15
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,40,numeric_layout_review,67,66
+bulk_pdf_20261027T074245Z,B0069,AXIS Q1805-LE Bullet Camera,41,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0070,AXIS P3408-VE Dome Camera,1,possible_fused_words,824,824
+bulk_pdf_20261027T074245Z,B0070,AXIS P3408-VE Dome Camera,3,possible_fused_words,3056,3056
+bulk_pdf_20261027T074245Z,B0070,AXIS P3408-VE Dome Camera,6,possible_fused_words,385,385
+bulk_pdf_20261027T074245Z,B0070,AXIS P3408-VE Dome Camera,7,possible_fused_words,772,772
+bulk_pdf_20261027T074245Z,B0070,AXIS P3408-VE Dome Camera,8,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0070,AXIS P3408-VE Dome Camera,9,possible_fused_words,3375,3375
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,5,fragmented_short_lines,531,531
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,25,sparse_text_page,16,16
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,26,numeric_layout_review,53,52
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,27,numeric_layout_review,82,81
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,28,sparse_text_page,30,30
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,29,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,31,sparse_text_page,11,11
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,34,sparse_text_page,10,10
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,35,sparse_text_page,32,30
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,36,sparse_text_page,13,13
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,38,sparse_text_page,36,35
+bulk_pdf_20261027T074245Z,B0071,AXIS P3408-VE Dome Camera,39,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0072,AXIS M1075-L Mk II Box Camera,7,sparse_text_page,17,17
+bulk_pdf_20261027T074245Z,B0072,AXIS M1075-L Mk II Box Camera,8,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0072,AXIS M1075-L Mk II Box Camera,9,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,2,possible_fused_words,1364,1364
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,3,possible_fused_words,1447,1447
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,4,possible_fused_words,1121,1121
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,5,possible_fused_words,1307,1307
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,6,possible_fused_words,1044,1044
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,7,possible_fused_words,1342,1342
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,8,possible_fused_words,584,584
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,9,possible_fused_words,249,249
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,11,possible_fused_words,792,792
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,13,possible_fused_words,582,582
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,14,possible_fused_words,1098,1098
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,17,possible_fused_words,1317,1317
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,18,possible_fused_words,889,889
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,20,possible_fused_words,1109,1109
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,21,possible_fused_words,1047,1047
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,22,possible_fused_words,814,814
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,23,possible_fused_words,853,853
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,24,possible_fused_words,1253,1253
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,26,possible_fused_words,1274,1274
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,27,possible_fused_words,1113,1113
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,32,possible_fused_words,1205,1205
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,33,possible_fused_words,719,719
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,43,possible_fused_words,571,571
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,44,possible_fused_words,937,937
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,45,possible_fused_words,1152,1152
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,46,sparse_text_page,8,8
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,47,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,49,sparse_text_page,10,10
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,50,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,51,sparse_text_page,10,10
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,52,sparse_text_page,9,9
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,53,sparse_text_page,11,10
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,54,sparse_text_page,22,22
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,55,sparse_text_page,14,14
+bulk_pdf_20261027T074245Z,B0073,AXIS M1075-L Mk II Box Camera,57,sparse_text_page,2,2
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,3,fragmented_short_lines,4296,4296
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,9,fragmented_short_lines,3839,3839
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,10,fragmented_short_lines,4148,4148
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,12,fragmented_short_lines,2759,2759
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,13,fragmented_short_lines,2076,2076
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,14,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,15,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,16,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,17,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,18,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,19,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,20,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,21,sparse_text_page,26,26
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,22,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,23,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,24,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,25,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,26,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,27,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,28,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,29,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,30,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,31,sparse_text_page,26,26
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,32,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,33,sparse_text_page,25,25
+bulk_pdf_20261027T074245Z,B0075,AXIS M5000 PTZ Camera,34,fragmented_short_lines,129,129
+bulk_pdf_20261027T074245Z,B0076,AXIS Q1808-LE Bullet Camera,8,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0076,AXIS Q1808-LE Bullet Camera,9,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,18,sparse_text_page,20,20
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,19,sparse_text_page,34,32
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,20,sparse_text_page,24,24
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,21,sparse_text_page,30,30
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,22,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,23,sparse_text_page,14,14
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,24,sparse_text_page,30,30
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,25,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,28,fragmented_short_lines,85,82
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,29,sparse_text_page,22,22
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,30,numeric_layout_review,52,52
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,31,sparse_text_page;numeric_layout_review,38,38
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,33,fragmented_short_lines,80,73
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,34,sparse_text_page;numeric_layout_review,39,39
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,36,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,37,sparse_text_page,15,15
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,38,numeric_layout_review,67,66
+bulk_pdf_20261027T074245Z,B0077,AXIS Q1808-LE Bullet Camera,39,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,17,sparse_text_page,20,20
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,18,sparse_text_page,34,32
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,19,sparse_text_page,24,24
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,20,sparse_text_page,30,30
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,21,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,22,sparse_text_page,14,14
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,23,sparse_text_page,30,30
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,24,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,27,fragmented_short_lines,85,82
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,28,sparse_text_page,22,22
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,29,numeric_layout_review,52,52
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,30,sparse_text_page;numeric_layout_review,38,38
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,32,fragmented_short_lines,80,73
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,33,sparse_text_page;numeric_layout_review,39,39
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,35,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,36,sparse_text_page,15,15
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,37,numeric_layout_review,67,66
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,38,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0078,AXIS Q1808-LE Bullet Camera,39,sparse_text_page,2,2
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,4,fragmented_short_lines,1273,1273
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,5,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,6,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,7,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,8,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,9,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,10,sparse_text_page,35,35
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,11,sparse_text_page,35,35
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,12,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,13,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,14,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,15,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,20,fragmented_short_lines,3148,3148
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,23,fragmented_short_lines,2620,2620
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,24,fragmented_short_lines,844,844
+bulk_pdf_20261027T074245Z,B0081,AXIS M3015 Network Camera,25,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,3,fragmented_short_lines,4236,4236
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,4,fragmented_short_lines,3810,3810
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,11,fragmented_short_lines,3128,3128
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,14,fragmented_short_lines,2544,2544
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,15,fragmented_short_lines,612,612
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,16,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,17,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,18,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,19,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,20,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,21,sparse_text_page,35,35
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,22,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,23,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,24,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,25,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,26,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,27,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,28,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,29,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,30,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0083,AXIS M1045-LW Network Camera,31,sparse_text_page,4,4
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,17,sparse_text_page,18,18
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,19,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,20,sparse_text_page,2,2
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,21,sparse_text_page,15,15
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,22,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,23,sparse_text_page,21,21
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,24,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,25,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,26,numeric_layout_review,106,106
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,27,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,28,sparse_text_page,35,34
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,29,sparse_text_page,6,6
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,30,sparse_text_page,8,8
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,31,sparse_text_page,7,7
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,32,sparse_text_page,16,16
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,33,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0085,AXIS M5000-G PTZ Camera,34,sparse_text_page,10,10
+bulk_pdf_20261027T074245Z,B0087,AXIS M2025-LE Network Camera,5,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0087,AXIS M2025-LE Network Camera,31,fragmented_short_lines,3027,3027
+bulk_pdf_20261027T074245Z,B0087,AXIS M2025-LE Network Camera,34,fragmented_short_lines,2112,2112
+bulk_pdf_20261027T074245Z,B0087,AXIS M2025-LE Network Camera,35,fragmented_short_lines,1439,1439
+bulk_pdf_20261027T074245Z,B0089,AXIS M1055-L Box Camera,3,possible_fused_words,2271,2271
+bulk_pdf_20261027T074245Z,B0089,AXIS M1055-L Box Camera,5,possible_fused_words,275,275
+bulk_pdf_20261027T074245Z,B0090,AXIS M5074 PTZ Camera,1,possible_fused_words,752,752
+bulk_pdf_20261027T074245Z,B0090,AXIS M5074 PTZ Camera,3,possible_fused_words,2816,2816
+bulk_pdf_20261027T074245Z,B0090,AXIS M5074 PTZ Camera,4,possible_fused_words,1443,1443
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,7,fragmented_short_lines,1182,1182
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,9,fragmented_short_lines,511,511
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,25,fragmented_short_lines,850,850
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,26,fragmented_short_lines,879,879
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,27,fragmented_short_lines,881,881
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,34,fragmented_short_lines,856,856
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,35,fragmented_short_lines,740,740
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,36,fragmented_short_lines,844,844
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,37,fragmented_short_lines,724,724
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,38,fragmented_short_lines,529,529
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,39,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,40,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,41,sparse_text_page,4,4
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,42,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,43,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,44,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,45,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,46,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,47,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,48,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,49,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,50,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,51,sparse_text_page,4,4
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,52,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,53,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,54,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,55,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,56,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0091,AXIS M5074 PTZ Camera,57,sparse_text_page,3,3
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,3,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,4,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,5,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,6,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,7,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,8,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,9,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,10,sparse_text_page,35,35
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,11,sparse_text_page,35,35
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,12,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,20,fragmented_short_lines,3440,3440
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,21,fragmented_short_lines,3347,3347
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,23,fragmented_short_lines,2991,2991
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,24,fragmented_short_lines,2546,2546
+bulk_pdf_20261027T074245Z,B0094,AXIS M3044-V Network Camera,25,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0095,AXIS M3044-V Network Camera,5,fragmented_short_lines,6718,6718
+bulk_pdf_20261027T074245Z,B0095,AXIS M3044-V Network Camera,6,fragmented_short_lines,1132,1132
+bulk_pdf_20261027T074245Z,B0095,AXIS M3044-V Network Camera,66,fragmented_short_lines,137,137
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,2,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,3,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,4,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,5,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,6,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,7,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,8,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,9,sparse_text_page,32,32
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,10,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,11,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,12,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,13,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,14,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,15,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,23,fragmented_short_lines,3339,3339
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,24,fragmented_short_lines,3190,3190
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,26,fragmented_short_lines,2663,2663
+bulk_pdf_20261027T074245Z,B0097,AXIS M1065-L Network Camera,27,fragmented_short_lines,2163,2163
+bulk_pdf_20261027T074245Z,B0098,AXIS M1065-L Network Camera,4,fragmented_short_lines,6642,6642
+bulk_pdf_20261027T074245Z,B0098,AXIS M1065-L Network Camera,5,fragmented_short_lines,1830,1830
+bulk_pdf_20261027T074245Z,B0101,AXIS M2026-LE Network Camera,29,fragmented_short_lines,3040,3040
+bulk_pdf_20261027T074245Z,B0101,AXIS M2026-LE Network Camera,30,fragmented_short_lines,3458,3458
+bulk_pdf_20261027T074245Z,B0101,AXIS M2026-LE Network Camera,32,fragmented_short_lines,2190,2190
+bulk_pdf_20261027T074245Z,B0101,AXIS M2026-LE Network Camera,33,fragmented_short_lines,1511,1511
+bulk_pdf_20261027T074245Z,B0102,AXIS M2026-LE Network Camera,2,fragmented_short_lines,2398,2398
+bulk_pdf_20261027T074245Z,B0102,AXIS M2026-LE Network Camera,16,fragmented_short_lines,135,135
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,2,empty_or_image_page,0,0
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,3,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,4,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,5,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,6,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,7,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,8,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,9,sparse_text_page,33,33
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,10,sparse_text_page,35,35
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,11,sparse_text_page,35,35
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,12,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,13,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,14,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,15,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,16,sparse_text_page,34,34
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,19,fragmented_short_lines,4207,4207
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,25,fragmented_short_lines,3650,3650
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,26,fragmented_short_lines,3424,3424
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,28,fragmented_short_lines,2904,2904
+bulk_pdf_20261027T074245Z,B0104,AXIS M3044-WV Network Camera,29,fragmented_short_lines,2221,2221
+security_sample_20261027T070841Z,A001,M2035-LE,1,possible_fused_words,865,865
+security_sample_20261027T070841Z,A001,M2035-LE,3,possible_fused_words,2834,2834
+security_sample_20261027T070841Z,A001,M2035-LE,5,possible_fused_words,654,654
+security_sample_20261027T070841Z,A002,M2035-LE,3,fragmented_short_lines,3890,3890
+security_sample_20261027T070841Z,A002,M2035-LE,5,fragmented_short_lines,702,702
+security_sample_20261027T070841Z,A002,M2035-LE,12,fragmented_short_lines,2524,2524
+security_sample_20261027T070841Z,A002,M2035-LE,15,fragmented_short_lines,2472,2472
+security_sample_20261027T070841Z,A002,M2035-LE,16,fragmented_short_lines,2145,2145
+security_sample_20261027T070841Z,A002,M2035-LE,17,fragmented_short_lines,1885,1885
+security_sample_20261027T070841Z,A002,M2035-LE,18,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,19,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,20,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,21,sparse_text_page,34,34
+security_sample_20261027T070841Z,A002,M2035-LE,22,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,23,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,24,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,25,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,26,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,27,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,28,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,29,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,30,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,31,sparse_text_page,34,34
+security_sample_20261027T070841Z,A002,M2035-LE,32,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,33,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,34,sparse_text_page,33,33
+security_sample_20261027T070841Z,A002,M2035-LE,35,sparse_text_page,3,3
+security_sample_20261027T070841Z,A002,M2035-LE,36,fragmented_short_lines,142,142
+security_sample_20261027T070841Z,A004,A1210,3,possible_fused_words,2334,2334
+security_sample_20261027T070841Z,A004,A1210,5,sparse_text_page,18,18
+security_sample_20261027T070841Z,A006,A1210,15,fragmented_short_lines,2918,2918
+security_sample_20261027T070841Z,A006,A1210,16,fragmented_short_lines,3013,3013
+security_sample_20261027T070841Z,A006,A1210,19,fragmented_short_lines,2546,2546
+security_sample_20261027T070841Z,A006,A1210,20,fragmented_short_lines,2727,2727
+security_sample_20261027T070841Z,A006,A1210,21,fragmented_short_lines,625,625
+security_sample_20261027T070841Z,A006,A1210,22,empty_or_image_page,0,0
+security_sample_20261027T070841Z,A006,A1210,41,sparse_text_page,4,4
+security_sample_20261027T070841Z,A006,A1210,42,fragmented_short_lines,146,146
+security_sample_20261027T070841Z,A008,I8116-E,6,empty_or_image_page,0,0
+security_sample_20261027T070841Z,A009,I8116-E,3,fragmented_short_lines,4084,4084
+security_sample_20261027T070841Z,A009,I8116-E,9,fragmented_short_lines,2949,2949
+security_sample_20261027T070841Z,A009,I8116-E,10,fragmented_short_lines,3251,3251
+security_sample_20261027T070841Z,A009,I8116-E,12,fragmented_short_lines,2698,2698
+security_sample_20261027T070841Z,A009,I8116-E,13,fragmented_short_lines,2309,2309
+security_sample_20261027T070841Z,A009,I8116-E,14,fragmented_short_lines,1615,1615
+security_sample_20261027T070841Z,A009,I8116-E,31,sparse_text_page,4,4
+security_sample_20261027T070841Z,A009,I8116-E,32,fragmented_short_lines,137,137

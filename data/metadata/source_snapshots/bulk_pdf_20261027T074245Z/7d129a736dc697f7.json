@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-i8016-lve/support",
+  "final_url": "https://www.axis.com/products/axis-i8016-lve/support",
+  "retrieved_at": "2026-10-27T07:48:09.959033+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793077960\"",
+  "last_modified": "Tue, 27 Oct 2026 05:12:40 GMT",
+  "sha256": "cdfd04b42555d77ee1c4375d1cb97e6ad492acc000fdc4a41e29eda117588895",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/7d129a736dc697f7.html",
+  "source_id": "7d129a736dc697f7"
+}

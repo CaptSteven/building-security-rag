@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-i7010-ve/support",
+  "final_url": "https://www.axis.com/products/axis-i7010-ve/support",
+  "retrieved_at": "2026-10-27T07:47:48.637722+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087267\"",
+  "last_modified": "Tue, 27 Oct 2026 07:47:47 GMT",
+  "sha256": "691c2356acb354d97fe6decf349f25e2d2ec82bd0c634da1fbc31f03cb44f12d",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/8f58c49a6f7f8eef.html",
+  "source_id": "8f58c49a6f7f8eef"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-m3015/support",
+  "final_url": "https://www.axis.com/products/axis-m3015/support",
+  "retrieved_at": "2026-10-27T07:49:49.003141+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1792780488\"",
+  "last_modified": "Fri, 23 Oct 2026 18:34:48 GMT",
+  "sha256": "38772411ddc9169bcbeabecd222293502bdf9d92b555e4090d515242dc3b44c0",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/57768b84a4e2e339.html",
+  "source_id": "57768b84a4e2e339"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-i7020/support",
+  "final_url": "https://www.axis.com/products/axis-i7020/support",
+  "retrieved_at": "2026-10-27T07:48:02.528580+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087282\"",
+  "last_modified": "Tue, 27 Oct 2026 07:48:02 GMT",
+  "sha256": "ed088978d0a50139059fc4518ae5ae55ba2f7e832003d81ffbd908ea1f0bfc59",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/086c2d5e7ca3db29.html",
+  "source_id": "086c2d5e7ca3db29"
+}

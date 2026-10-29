@@ -1,0 +1,23 @@
+{
+  "processing_run_id": "cleaning_20261027T084605Z",
+  "status": "completed",
+  "rules_version": "conservative-whitespace-v1",
+  "documents": 110,
+  "completed_documents": 110,
+  "failed_documents": 0,
+  "pages": 1888,
+  "flagged_pages": 550,
+  "flagged_documents": 66,
+  "quality_flag_counts": {
+    "empty_or_image_page": 33,
+    "numeric_layout_review": 33,
+    "possible_fused_words": 53,
+    "sparse_text_page": 293,
+    "fragmented_short_lines": 145
+  },
+  "raw_characters": 2599649,
+  "clean_characters": 2595728,
+  "changed_pages": 186,
+  "human_reviewed_documents": 0,
+  "note": "异常标记是核验线索，不代表页面必定有错；已保留所有页面。尚未OCR、切分或向量化。"
+}

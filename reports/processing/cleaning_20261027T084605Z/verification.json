@@ -1,0 +1,23 @@
+{
+  "processing_run_id": "cleaning_20261027T084605Z",
+  "hash_checks": 440,
+  "replayed_pages": 1888,
+  "sqlite_integrity": {
+    "database/sqlite/library.sqlite3": "ok",
+    "database/sqlite/security_sample_20261027T070841Z/catalog.sqlite3": "ok",
+    "database/sqlite/bulk_pdf_20261027T074245Z/catalog.sqlite3": "ok"
+  },
+  "quality_csv_data_rows": 550,
+  "tests": "25 passed, 1 skipped (PostgreSQL integration not configured)",
+  "frontend_build": "passed",
+  "browser_checks": [
+    "real summary: 110 docs / 1888 pages / 550 flags / 0 formally reviewed docs",
+    "processing rules and flag examples visible",
+    "B0032 sample opens PDF at page 12 of 214",
+    "OSDP raw and cleaned layers each return 6 traceable evidence results",
+    "no console errors observed"
+  ],
+  "inspection": "Five targeted pages visually compared; not whole-document approval. See inspection/observations.md",
+  "raw_pdfs_unchanged": true,
+  "chunks_and_vectors_generated": false
+}

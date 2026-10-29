@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-m3016/support",
+  "final_url": "https://www.axis.com/products/axis-m3016/support",
+  "retrieved_at": "2026-10-27T07:50:25.037882+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087424\"",
+  "last_modified": "Tue, 27 Oct 2026 07:50:24 GMT",
+  "sha256": "f2c4f674cc3610839fe6fbe26fbfcc5319c94557eef87a9ba2abce8615fd4268",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/0a05578f514bdc2d.html",
+  "source_id": "0a05578f514bdc2d"
+}

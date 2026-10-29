@@ -1,0 +1,47 @@
+[
+  {
+    "flag": "empty_or_image_page",
+    "asset_id": "B0005",
+    "source_run_id": "bulk_pdf_20261027T074245Z",
+    "page": 2,
+    "model": "AX-350DH",
+    "raw_text": "",
+    "preview": "reports/processing/cleaning_20261027T084605Z/inspection/empty_or_image_page-B0005-p2.png"
+  },
+  {
+    "flag": "sparse_text_page",
+    "asset_id": "B0032",
+    "source_run_id": "bulk_pdf_20261027T074245Z",
+    "page": 12,
+    "model": "AXIS A1001 Network Door Controller",
+    "raw_text": "12\n",
+    "preview": "reports/processing/cleaning_20261027T084605Z/inspection/sparse_text_page-B0032-p12.png"
+  },
+  {
+    "flag": "possible_fused_words",
+    "asset_id": "B0030",
+    "source_run_id": "bulk_pdf_20261027T074245Z",
+    "page": 1,
+    "model": "AXIS A1001 Network Door Controller",
+    "raw_text": "Datasheet\nAXISA1001NetworkDoorC ontroller\nAXISA1001NetworkDoorController\nOpen and flexible–powered by IP\nAXISA1001NetworkDoorControllerisanon-proprietary,open,andIP-basedaccesscontrollersuitableforbothsmaller\ninstallationsandadvancedmid-sizesystems.AXISA1001comeswithbuilt-insoftwareforbasicaccessmanagement\nand is also open for third-party software. This allows the unit to be integrated with other systems such as video\nsurveillance,intrusiondetectionandtimeandattendance.ThecontrollerispoweredoverEthernetandcanalsopower\nconnectedequipment,minimizingtheneedforextracabling.AXISA1001isasmartindependentdevicethatisinstalled\nbyeachdoor,makingthesolu",
+    "preview": "reports/processing/cleaning_20261027T084605Z/inspection/possible_fused_words-B0030-p1.png"
+  },
+  {
+    "flag": "fragmented_short_lines",
+    "asset_id": "B0032",
+    "source_run_id": "bulk_pdf_20261027T074245Z",
+    "page": 29,
+    "model": "AXIS A1001 Network Door Controller",
+    "raw_text": "AXIS\nA1001\nNetwork\nDoor\nContr\noller\nAuxiliary\nConnector\n1\n0\nV\nDC\n(\n-)\n2\nDC\noutput:\n3.3\nV,\nmax\n1\n00\nmA\nA\nI/O\nconfigured\nas\ninput\nB\nI/O\nconfigured\nas\noutput\nSupervised\nInputs\nT\no\nuse\nsupervised\ninputs,\ninstall\nend\nof\nline\nresistors\naccording\nto\nthe\ndiagram\nbelow\n.\ni\nInput\nii\n0\nV\nDC\n(\n-)\n29\nEN\n",
+    "preview": "reports/processing/cleaning_20261027T084605Z/inspection/fragmented_short_lines-B0032-p29.png"
+  },
+  {
+    "flag": "numeric_layout_review",
+    "asset_id": "B0024",
+    "source_run_id": "bulk_pdf_20261027T074245Z",
+    "page": 4,
+    "model": "family-7e68e1d268",
+    "raw_text": "Copyright (C) 2023 OPTEX CO., LTD\nCoverage area\nSpecifications\nDimensions\nModel INS-QXI-ST INS-HX-80N\nDetection method Passive infrared Passive infrared\nPIR coverage 12.0 m (40’) 120°wide 24 m x 2.0 m (80’ x 6’7”) narrow\nPIR zones 40 zones 20 zones\nDetectable speed 0.3 to 2.0 m/s (1’ to 6’7”/s) 0.3 to 1.5 m/s (1’ to 5’/s)\nSensitivity 2.0°C ( 3.6°F) at 0.6 m/s 2.0°C ( 3.6°F) at 0.6 m/s\nPower input PoE (IEEE 802.3af compliant) \nMini-jack 12 V DC 420 mA max. \nTerminal 9.5 to 16 V DC/ 20 mA max. at 12 V DC\nPoE (IEEE 802.3af compliant) \nMini-jack 12 V DC 420 mA max. \nTerminal 9.5 to 18 V DC/ 35 mA max. at 12 V DC\nAlarm period 2.0 ± 0.5 s 2.0 ± 1 s",
+    "preview": "reports/processing/cleaning_20261027T084605Z/inspection/numeric_layout_review-B0024-p4.png"
+  }
+]

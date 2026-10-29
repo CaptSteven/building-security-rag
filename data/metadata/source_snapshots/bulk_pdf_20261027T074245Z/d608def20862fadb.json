@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-i8116-e/support",
+  "final_url": "https://www.axis.com/products/axis-i8116-e/support",
+  "retrieved_at": "2026-10-27T07:48:23.578056+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793084716\"",
+  "last_modified": "Tue, 27 Oct 2026 07:05:16 GMT",
+  "sha256": "31005bcf068df75d890c43a7236c24c60199a756e617b8dfe9b30341d13082e7",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/d608def20862fadb.html",
+  "source_id": "d608def20862fadb"
+}

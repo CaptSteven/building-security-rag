@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-a1001/support",
+  "final_url": "https://www.axis.com/products/axis-a1001/support",
+  "retrieved_at": "2026-10-27T07:45:19.254213+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087118\"",
+  "last_modified": "Tue, 27 Oct 2026 07:45:18 GMT",
+  "sha256": "37533fea7a38cc7ecc7825920ecdc7db2f91751864a936adadeacad461486da5",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/65b09cf0d4808798.html",
+  "source_id": "65b09cf0d4808798"
+}

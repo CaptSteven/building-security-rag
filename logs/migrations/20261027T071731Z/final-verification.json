@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-27T07:24:28.221821+00:00",
+  "raw_pdf_count": 9,
+  "raw_pdf_hashes_unchanged": true,
+  "sqlite_integrity": "ok",
+  "devices": 4,
+  "assets": 12,
+  "pages": 145,
+  "tests_passed": 16,
+  "tests_skipped": 1,
+  "skip_reason": "PostgreSQL integration requires dedicated test database",
+  "compose_config": "valid",
+  "collector_offline_path_check": "passed, downloads disabled",
+  "markdown_entry_links": "all resolve",
+  "frontend_status": "reserved, not implemented"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-m5075/support",
+  "final_url": "https://www.axis.com/products/axis-m5075/support",
+  "retrieved_at": "2026-10-27T07:51:13.298712+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1792800934\"",
+  "last_modified": "Sat, 24 Oct 2026 00:15:34 GMT",
+  "sha256": "eb5ca4fd7ec1f2ffd3e74971db421f7cceeaa0f01a26af76e7248f0ab1550ef1",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/f3f8045b27b986e7.html",
+  "source_id": "f3f8045b27b986e7"
+}

@@ -1,0 +1,2426 @@
+[
+  {
+    "slug": "axis-a1001",
+    "category": "门禁",
+    "label": "AXIS A1001 and AXIS Entry Manager",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a1001",
+    "support_url": "https://www.axis.com/products/axis-a1001/support"
+  },
+  {
+    "slug": "axis-a1210",
+    "category": "门禁",
+    "label": "AXIS A1210 Network Door Controller",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a1210",
+    "support_url": "https://www.axis.com/products/axis-a1210/support"
+  },
+  {
+    "slug": "axis-a1210-b",
+    "category": "门禁",
+    "label": "AXIS A1210-B Network Door Controller",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a1210-b",
+    "support_url": "https://www.axis.com/products/axis-a1210-b/support"
+  },
+  {
+    "slug": "axis-a1214",
+    "category": "门禁",
+    "label": "AXIS A1214 Network Door Controller Kit",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a1214",
+    "support_url": "https://www.axis.com/products/axis-a1214/support"
+  },
+  {
+    "slug": "axis-a1601",
+    "category": "门禁",
+    "label": "AXIS A1601 Network Door Controller",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a1601",
+    "support_url": "https://www.axis.com/products/axis-a1601/support"
+  },
+  {
+    "slug": "axis-a1610",
+    "category": "门禁",
+    "label": "AXIS A1610 Network Door Controller",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a1610",
+    "support_url": "https://www.axis.com/products/axis-a1610/support"
+  },
+  {
+    "slug": "axis-a1610-b",
+    "category": "门禁",
+    "label": "AXIS A1610-B Network Door Controller",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a1610-b",
+    "support_url": "https://www.axis.com/products/axis-a1610-b/support"
+  },
+  {
+    "slug": "axis-a1710-b",
+    "category": "门禁",
+    "label": "AXIS A1710-B Network Door Controller User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a1710-b",
+    "support_url": "https://www.axis.com/products/axis-a1710-b/support"
+  },
+  {
+    "slug": "axis-a1810-b",
+    "category": "门禁",
+    "label": "AXIS A1810-B Network Door Controller User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a1810-b",
+    "support_url": "https://www.axis.com/products/axis-a1810-b/support"
+  },
+  {
+    "slug": "axis-a8207-ve-mk-ii",
+    "category": "对讲",
+    "label": "AXIS A8207-VE Mk II Network Video Door Station",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a8207-ve-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-a8207-ve-mk-ii/support"
+  },
+  {
+    "slug": "axis-a8207-ve",
+    "category": "对讲",
+    "label": "AXIS A8207-VE Network Video Door Station",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-a8207-ve",
+    "support_url": "https://www.axis.com/products/axis-a8207-ve/support"
+  },
+  {
+    "slug": "axis-i7010-ve",
+    "category": "对讲",
+    "label": "AXIS I7010-VE Network Intercom User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-i7010-ve",
+    "support_url": "https://www.axis.com/products/axis-i7010-ve/support"
+  },
+  {
+    "slug": "axis-i7010-ve-safety",
+    "category": "对讲",
+    "label": "AXIS I7010-VE Safety Network Intercom User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-i7010-ve-safety",
+    "support_url": "https://www.axis.com/products/axis-i7010-ve-safety/support"
+  },
+  {
+    "slug": "axis-i7020",
+    "category": "对讲",
+    "label": "AXIS I7020 Network Intercom User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-i7020",
+    "support_url": "https://www.axis.com/products/axis-i7020/support"
+  },
+  {
+    "slug": "axis-i8016-lve",
+    "category": "对讲",
+    "label": "AXIS I8016-LVE Network Video Intercom",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-i8016-lve",
+    "support_url": "https://www.axis.com/products/axis-i8016-lve/support"
+  },
+  {
+    "slug": "axis-i8116-e",
+    "category": "对讲",
+    "label": "AXIS I8116-E Network Video Intercom",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-i8116-e",
+    "support_url": "https://www.axis.com/products/axis-i8116-e/support"
+  },
+  {
+    "slug": "axis-i8307-ve",
+    "category": "对讲",
+    "label": "AXIS I8307-VE Network Intercom User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-i8307-ve",
+    "support_url": "https://www.axis.com/products/axis-i8307-ve/support"
+  },
+  {
+    "slug": "axis-q1805-le",
+    "category": "视频监控",
+    "label": "AXIS Q1805-LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1805-le",
+    "support_url": "https://www.axis.com/products/axis-q1805-le/support"
+  },
+  {
+    "slug": "axis-p3408-ve",
+    "category": "视频监控",
+    "label": "AXIS P3408-VE",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3408-ve",
+    "support_url": "https://www.axis.com/products/axis-p3408-ve/support"
+  },
+  {
+    "slug": "axis-m1075-l-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS M1075-L Mk II Box Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1075-l-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m1075-l-mk-ii/support"
+  },
+  {
+    "slug": "axis-m5000",
+    "category": "视频监控",
+    "label": "AXIS M5000",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m5000",
+    "support_url": "https://www.axis.com/products/axis-m5000/support"
+  },
+  {
+    "slug": "axis-q1808-le",
+    "category": "视频监控",
+    "label": "AXIS Q1808-LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1808-le",
+    "support_url": "https://www.axis.com/products/axis-q1808-le/support"
+  },
+  {
+    "slug": "axis-m3015",
+    "category": "视频监控",
+    "label": "AXIS M3015 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3015",
+    "support_url": "https://www.axis.com/products/axis-m3015/support"
+  },
+  {
+    "slug": "axis-m1045-lw",
+    "category": "视频监控",
+    "label": "AXIS M1045-LW Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1045-lw",
+    "support_url": "https://www.axis.com/products/axis-m1045-lw/support"
+  },
+  {
+    "slug": "axis-m5000-g",
+    "category": "视频监控",
+    "label": "AXIS M5000-G",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m5000-g",
+    "support_url": "https://www.axis.com/products/axis-m5000-g/support"
+  },
+  {
+    "slug": "axis-m2025-le",
+    "category": "视频监控",
+    "label": "AXIS M2025-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m2025-le",
+    "support_url": "https://www.axis.com/products/axis-m2025-le/support"
+  },
+  {
+    "slug": "axis-m3016",
+    "category": "视频监控",
+    "label": "AXIS M3016 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3016",
+    "support_url": "https://www.axis.com/products/axis-m3016/support"
+  },
+  {
+    "slug": "axis-m1055-l",
+    "category": "视频监控",
+    "label": "AXIS M1055-L Box Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1055-l",
+    "support_url": "https://www.axis.com/products/axis-m1055-l/support"
+  },
+  {
+    "slug": "axis-m5074",
+    "category": "视频监控",
+    "label": "AXIS M5074",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m5074",
+    "support_url": "https://www.axis.com/products/axis-m5074/support"
+  },
+  {
+    "slug": "axis-m2026-le-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS M2026-LE Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m2026-le-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m2026-le-mk-ii/support"
+  },
+  {
+    "slug": "axis-m3044-v",
+    "category": "视频监控",
+    "label": "AXIS M3044-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3044-v",
+    "support_url": "https://www.axis.com/products/axis-m3044-v/support"
+  },
+  {
+    "slug": "axis-m1065-l",
+    "category": "视频监控",
+    "label": "AXIS M1065-L Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1065-l",
+    "support_url": "https://www.axis.com/products/axis-m1065-l/support"
+  },
+  {
+    "slug": "axis-m5075",
+    "category": "视频监控",
+    "label": "AXIS M5075",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m5075",
+    "support_url": "https://www.axis.com/products/axis-m5075/support"
+  },
+  {
+    "slug": "axis-m2026-le",
+    "category": "视频监控",
+    "label": "AXIS M2026-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m2026-le",
+    "support_url": "https://www.axis.com/products/axis-m2026-le/support"
+  },
+  {
+    "slug": "axis-m3044-wv",
+    "category": "视频监控",
+    "label": "AXIS M3044-WV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3044-wv",
+    "support_url": "https://www.axis.com/products/axis-m3044-wv/support"
+  },
+  {
+    "slug": "axis-m1065-lw",
+    "category": "视频监控",
+    "label": "AXIS M1065-LW Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1065-lw",
+    "support_url": "https://www.axis.com/products/axis-m1065-lw/support"
+  },
+  {
+    "slug": "axis-m5075-g",
+    "category": "视频监控",
+    "label": "AXIS M5075-G",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m5075-g",
+    "support_url": "https://www.axis.com/products/axis-m5075-g/support"
+  },
+  {
+    "slug": "axis-m2035-le",
+    "category": "视频监控",
+    "label": "AXIS M2035-LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m2035-le",
+    "support_url": "https://www.axis.com/products/axis-m2035-le/support"
+  },
+  {
+    "slug": "axis-m3045-v",
+    "category": "视频监控",
+    "label": "AXIS M3045-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3045-v",
+    "support_url": "https://www.axis.com/products/axis-m3045-v/support"
+  },
+  {
+    "slug": "axis-m1075-l",
+    "category": "视频监控",
+    "label": "AXIS M1075-L Box Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1075-l",
+    "support_url": "https://www.axis.com/products/axis-m1075-l/support"
+  },
+  {
+    "slug": "axis-m5525-e",
+    "category": "视频监控",
+    "label": "AXIS M5525-E PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m5525-e",
+    "support_url": "https://www.axis.com/products/axis-m5525-e/support"
+  },
+  {
+    "slug": "axis-m2036-le",
+    "category": "视频监控",
+    "label": "AXIS M2036-LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m2036-le",
+    "support_url": "https://www.axis.com/products/axis-m2036-le/support"
+  },
+  {
+    "slug": "axis-m3045-wv",
+    "category": "视频监控",
+    "label": "AXIS M3045-WV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3045-wv",
+    "support_url": "https://www.axis.com/products/axis-m3045-wv/support"
+  },
+  {
+    "slug": "axis-m1124",
+    "category": "视频监控",
+    "label": "AXIS M1124 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1124",
+    "support_url": "https://www.axis.com/products/axis-m1124/support"
+  },
+  {
+    "slug": "axis-m5526-e",
+    "category": "视频监控",
+    "label": "AXIS M5526-E PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m5526-e",
+    "support_url": "https://www.axis.com/products/axis-m5526-e/support"
+  },
+  {
+    "slug": "axis-m2048-le",
+    "category": "视频监控",
+    "label": "AXIS M2048-LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m2048-le",
+    "support_url": "https://www.axis.com/products/axis-m2048-le/support"
+  },
+  {
+    "slug": "axis-m3046-v",
+    "category": "视频监控",
+    "label": "AXIS M3046-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3046-v",
+    "support_url": "https://www.axis.com/products/axis-m3046-v/support"
+  },
+  {
+    "slug": "axis-m1124-e",
+    "category": "视频监控",
+    "label": "AXIS M1124-E Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1124-e",
+    "support_url": "https://www.axis.com/products/axis-m1124-e/support"
+  },
+  {
+    "slug": "axis-p5654-e-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P5654-E Mk II PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p5654-e-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p5654-e-mk-ii/support"
+  },
+  {
+    "slug": "axis-p1435-e",
+    "category": "视频监控",
+    "label": "AXIS P1435-E Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1435-e",
+    "support_url": "https://www.axis.com/products/axis-p1435-e/support"
+  },
+  {
+    "slug": "axis-m3057-plve-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS M3057-PLVE Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3057-plve-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m3057-plve-mk-ii/support"
+  },
+  {
+    "slug": "axis-m1125",
+    "category": "视频监控",
+    "label": "AXIS M1125 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1125",
+    "support_url": "https://www.axis.com/products/axis-m1125/support"
+  },
+  {
+    "slug": "axis-p5654-e",
+    "category": "视频监控",
+    "label": "AXIS P5654-E PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p5654-e",
+    "support_url": "https://www.axis.com/products/axis-p5654-e/support"
+  },
+  {
+    "slug": "axis-p1435-le",
+    "category": "视频监控",
+    "label": "AXIS P1435-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1435-le",
+    "support_url": "https://www.axis.com/products/axis-p1435-le/support"
+  },
+  {
+    "slug": "axis-m3057-plve",
+    "category": "视频监控",
+    "label": "AXIS M3057-PLVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3057-plve",
+    "support_url": "https://www.axis.com/products/axis-m3057-plve/support"
+  },
+  {
+    "slug": "axis-m1125-e",
+    "category": "视频监控",
+    "label": "AXIS M1125-E Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1125-e",
+    "support_url": "https://www.axis.com/products/axis-m1125-e/support"
+  },
+  {
+    "slug": "axis-p5655-e",
+    "category": "视频监控",
+    "label": "AXIS P5655-E PTZ Dome Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p5655-e",
+    "support_url": "https://www.axis.com/products/axis-p5655-e/support"
+  },
+  {
+    "slug": "axis-p1445-le",
+    "category": "视频监控",
+    "label": "AXIS P1445-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1445-le",
+    "support_url": "https://www.axis.com/products/axis-p1445-le/support"
+  },
+  {
+    "slug": "axis-m3058-plve",
+    "category": "视频监控",
+    "label": "AXIS M3058-PLVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3058-plve",
+    "support_url": "https://www.axis.com/products/axis-m3058-plve/support"
+  },
+  {
+    "slug": "axis-m1134",
+    "category": "视频监控",
+    "label": "AXIS M1134 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1134",
+    "support_url": "https://www.axis.com/products/axis-m1134/support"
+  },
+  {
+    "slug": "axis-p5676-le",
+    "category": "视频监控",
+    "label": "AXIS P5676-LE PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p5676-le",
+    "support_url": "https://www.axis.com/products/axis-p5676-le/support"
+  },
+  {
+    "slug": "axis-p1445-le-3",
+    "category": "视频监控",
+    "label": "AXIS P1445-LE-3 License Plate Verifier Kit",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1445-le-3",
+    "support_url": "https://www.axis.com/products/axis-p1445-le-3/support"
+  },
+  {
+    "slug": "axis-m3064-v",
+    "category": "视频监控",
+    "label": "AXIS M3064-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3064-v",
+    "support_url": "https://www.axis.com/products/axis-m3064-v/support"
+  },
+  {
+    "slug": "axis-m1135-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS M1135 Mk II Box Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1135-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m1135-mk-ii/support"
+  },
+  {
+    "slug": "axis-q6010-e",
+    "category": "视频监控",
+    "label": "AXIS Q6010-E Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6010-e",
+    "support_url": "https://www.axis.com/products/axis-q6010-e/support"
+  },
+  {
+    "slug": "axis-p1447-le",
+    "category": "视频监控",
+    "label": "AXIS P1447-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1447-le",
+    "support_url": "https://www.axis.com/products/axis-p1447-le/support"
+  },
+  {
+    "slug": "axis-m3065-v",
+    "category": "视频监控",
+    "label": "AXIS M3065-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3065-v",
+    "support_url": "https://www.axis.com/products/axis-m3065-v/support"
+  },
+  {
+    "slug": "axis-m1135",
+    "category": "视频监控",
+    "label": "AXIS M1135 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1135",
+    "support_url": "https://www.axis.com/products/axis-m1135/support"
+  },
+  {
+    "slug": "axis-q6054-mk-iii",
+    "category": "视频监控",
+    "label": "AXIS Q6054 Mk III PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6054-mk-iii",
+    "support_url": "https://www.axis.com/products/axis-q6054-mk-iii/support"
+  },
+  {
+    "slug": "axis-p1448-le",
+    "category": "视频监控",
+    "label": "AXIS P1448-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1448-le",
+    "support_url": "https://www.axis.com/products/axis-p1448-le/support"
+  },
+  {
+    "slug": "axis-m3066-v",
+    "category": "视频监控",
+    "label": "AXIS M3066-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3066-v",
+    "support_url": "https://www.axis.com/products/axis-m3066-v/support"
+  },
+  {
+    "slug": "axis-m1135-e-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS M1135-E Mk II Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1135-e-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m1135-e-mk-ii/support"
+  },
+  {
+    "slug": "axis-q6054-e-mk-iii",
+    "category": "视频监控",
+    "label": "AXIS Q6054-E Mk III PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6054-e-mk-iii",
+    "support_url": "https://www.axis.com/products/axis-q6054-e-mk-iii/support"
+  },
+  {
+    "slug": "axis-p1455-le",
+    "category": "视频监控",
+    "label": "AXIS P1455-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1455-le",
+    "support_url": "https://www.axis.com/products/axis-p1455-le/support"
+  },
+  {
+    "slug": "axis-m3067-p",
+    "category": "视频监控",
+    "label": "AXIS M3067-P Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3067-p",
+    "support_url": "https://www.axis.com/products/axis-m3067-p/support"
+  },
+  {
+    "slug": "axis-m1135-e",
+    "category": "视频监控",
+    "label": "AXIS M1135-E Network camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1135-e",
+    "support_url": "https://www.axis.com/products/axis-m1135-e/support"
+  },
+  {
+    "slug": "axis-q6074",
+    "category": "视频监控",
+    "label": "AXIS Q6074 PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6074",
+    "support_url": "https://www.axis.com/products/axis-q6074/support"
+  },
+  {
+    "slug": "axis-p1455-le-3",
+    "category": "视频监控",
+    "label": "AXIS P1455-LE-3 License Plate Verifier",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1455-le-3",
+    "support_url": "https://www.axis.com/products/axis-p1455-le-3/support"
+  },
+  {
+    "slug": "axis-m3068-p",
+    "category": "视频监控",
+    "label": "AXIS M3068-P Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3068-p",
+    "support_url": "https://www.axis.com/products/axis-m3068-p/support"
+  },
+  {
+    "slug": "axis-m1137-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS M1137 Mk II Box Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1137-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m1137-mk-ii/support"
+  },
+  {
+    "slug": "axis-q6074-e",
+    "category": "视频监控",
+    "label": "AXIS Q6074-E PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6074-e",
+    "support_url": "https://www.axis.com/products/axis-q6074-e/support"
+  },
+  {
+    "slug": "axis-p1465-le",
+    "category": "视频监控",
+    "label": "AXIS P1465-LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1465-le",
+    "support_url": "https://www.axis.com/products/axis-p1465-le/support"
+  },
+  {
+    "slug": "axis-m3075-v",
+    "category": "视频监控",
+    "label": "AXIS M3075-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3075-v",
+    "support_url": "https://www.axis.com/products/axis-m3075-v/support"
+  },
+  {
+    "slug": "axis-m1137",
+    "category": "视频监控",
+    "label": "AXIS M1137 Network camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1137",
+    "support_url": "https://www.axis.com/products/axis-m1137/support"
+  },
+  {
+    "slug": "axis-q6075",
+    "category": "视频监控",
+    "label": "AXIS Q6075 PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6075",
+    "support_url": "https://www.axis.com/products/axis-q6075/support"
+  },
+  {
+    "slug": "axis-p1465-le-3",
+    "category": "视频监控",
+    "label": "AXIS P1465-LE-3 License Plate Verifier Kit",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1465-le-3",
+    "support_url": "https://www.axis.com/products/axis-p1465-le-3/support"
+  },
+  {
+    "slug": "axis-m3077-plve",
+    "category": "视频监控",
+    "label": "AXIS M3077-PLVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3077-plve",
+    "support_url": "https://www.axis.com/products/axis-m3077-plve/support"
+  },
+  {
+    "slug": "axis-m1137-e-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS M1137-E Mk II Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1137-e-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m1137-e-mk-ii/support"
+  },
+  {
+    "slug": "axis-q6075-e",
+    "category": "视频监控",
+    "label": "AXIS Q6075-E PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6075-e",
+    "support_url": "https://www.axis.com/products/axis-q6075-e/support"
+  },
+  {
+    "slug": "axis-p1467-le",
+    "category": "视频监控",
+    "label": "AXIS P1467-LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1467-le",
+    "support_url": "https://www.axis.com/products/axis-p1467-le/support"
+  },
+  {
+    "slug": "axis-m3085-v",
+    "category": "视频监控",
+    "label": "AXIS M3085-V Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3085-v",
+    "support_url": "https://www.axis.com/products/axis-m3085-v/support"
+  },
+  {
+    "slug": "axis-m1137-e",
+    "category": "视频监控",
+    "label": "AXIS M1137-E Network camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m1137-e",
+    "support_url": "https://www.axis.com/products/axis-m1137-e/support"
+  },
+  {
+    "slug": "axis-q6075-s",
+    "category": "视频监控",
+    "label": "AXIS Q6075-S PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6075-s",
+    "support_url": "https://www.axis.com/products/axis-q6075-s/support"
+  },
+  {
+    "slug": "axis-p1468-le",
+    "category": "视频监控",
+    "label": "AXIS P1468-LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1468-le",
+    "support_url": "https://www.axis.com/products/axis-p1468-le/support"
+  },
+  {
+    "slug": "axis-m3086-v",
+    "category": "视频监控",
+    "label": "AXIS M3086-V Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3086-v",
+    "support_url": "https://www.axis.com/products/axis-m3086-v/support"
+  },
+  {
+    "slug": "axis-p1364",
+    "category": "视频监控",
+    "label": "AXIS P1364 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1364",
+    "support_url": "https://www.axis.com/products/axis-p1364/support"
+  },
+  {
+    "slug": "axis-q6075-se",
+    "category": "视频监控",
+    "label": "AXIS Q6075-SE PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6075-se",
+    "support_url": "https://www.axis.com/products/axis-q6075-se/support"
+  },
+  {
+    "slug": "axis-p1475-le",
+    "category": "视频监控",
+    "label": "AXIS P1475–LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1475-le",
+    "support_url": "https://www.axis.com/products/axis-p1475-le/support"
+  },
+  {
+    "slug": "axis-m3098-h",
+    "category": "视频监控",
+    "label": "AXIS M3098-H",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3098-h",
+    "support_url": "https://www.axis.com/products/axis-m3098-h/support"
+  },
+  {
+    "slug": "axis-p1364-e",
+    "category": "视频监控",
+    "label": "AXIS P1364-E Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1364-e",
+    "support_url": "https://www.axis.com/products/axis-p1364-e/support"
+  },
+  {
+    "slug": "axis-q6078-e",
+    "category": "视频监控",
+    "label": "AXIS Q6078-E PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6078-e",
+    "support_url": "https://www.axis.com/products/axis-q6078-e/support"
+  },
+  {
+    "slug": "axis-p1485-le-kit",
+    "category": "视频监控",
+    "label": "AXIS P1485-LE Kit",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1485-le-kit",
+    "support_url": "https://www.axis.com/products/axis-p1485-le-kit/support"
+  },
+  {
+    "slug": "axis-m3098-lv",
+    "category": "视频监控",
+    "label": "AXIS M3098-LV",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3098-lv",
+    "support_url": "https://www.axis.com/products/axis-m3098-lv/support"
+  },
+  {
+    "slug": "axis-p1365-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P1365 Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1365-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p1365-mk-ii/support"
+  },
+  {
+    "slug": "axis-q6086-e",
+    "category": "视频监控",
+    "label": "AXIS Q6086-E User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6086-e",
+    "support_url": "https://www.axis.com/products/axis-q6086-e/support"
+  },
+  {
+    "slug": "axis-p1485-le",
+    "category": "视频监控",
+    "label": "AXIS P1485–LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1485-le",
+    "support_url": "https://www.axis.com/products/axis-p1485-le/support"
+  },
+  {
+    "slug": "axis-m3098-v",
+    "category": "视频监控",
+    "label": "AXIS M3098-V",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3098-v",
+    "support_url": "https://www.axis.com/products/axis-m3098-v/support"
+  },
+  {
+    "slug": "axis-p1365-e-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P1365-E Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1365-e-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p1365-e-mk-ii/support"
+  },
+  {
+    "slug": "axis-q6088-e",
+    "category": "视频监控",
+    "label": "AXIS Q6088-E User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6088-e",
+    "support_url": "https://www.axis.com/products/axis-q6088-e/support"
+  },
+  {
+    "slug": "axis-p1486-le",
+    "category": "视频监控",
+    "label": "AXIS P1486-LE Global Shutter Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1486-le",
+    "support_url": "https://www.axis.com/products/axis-p1486-le/support"
+  },
+  {
+    "slug": "axis-m3104-l",
+    "category": "视频监控",
+    "label": "AXIS M3104-L Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3104-l",
+    "support_url": "https://www.axis.com/products/axis-m3104-l/support"
+  },
+  {
+    "slug": "axis-p1367",
+    "category": "视频监控",
+    "label": "AXIS P1367 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1367",
+    "support_url": "https://www.axis.com/products/axis-p1367/support"
+  },
+  {
+    "slug": "axis-q6100-e",
+    "category": "视频监控",
+    "label": "AXIS Q6100-E Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6100-e",
+    "support_url": "https://www.axis.com/products/axis-q6100-e/support"
+  },
+  {
+    "slug": "axis-p1486-le-kit",
+    "category": "视频监控",
+    "label": "AXIS P1486-LE Kit",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1486-le-kit",
+    "support_url": "https://www.axis.com/products/axis-p1486-le-kit/support"
+  },
+  {
+    "slug": "axis-m3104-lve",
+    "category": "视频监控",
+    "label": "AXIS M3104-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3104-lve",
+    "support_url": "https://www.axis.com/products/axis-m3104-lve/support"
+  },
+  {
+    "slug": "axis-p1367-e",
+    "category": "视频监控",
+    "label": "AXIS P1367-E Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1367-e",
+    "support_url": "https://www.axis.com/products/axis-p1367-e/support"
+  },
+  {
+    "slug": "axis-q6125-le",
+    "category": "视频监控",
+    "label": "AXIS Q6125-LE PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6125-le",
+    "support_url": "https://www.axis.com/products/axis-q6125-le/support"
+  },
+  {
+    "slug": "axis-p1487-le",
+    "category": "视频监控",
+    "label": "AXIS P1487–LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1487-le",
+    "support_url": "https://www.axis.com/products/axis-p1487-le/support"
+  },
+  {
+    "slug": "axis-m3105-l",
+    "category": "视频监控",
+    "label": "AXIS M3105-L Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3105-l",
+    "support_url": "https://www.axis.com/products/axis-m3105-l/support"
+  },
+  {
+    "slug": "axis-p1368-e",
+    "category": "视频监控",
+    "label": "AXIS P1368-E Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1368-e",
+    "support_url": "https://www.axis.com/products/axis-p1368-e/support"
+  },
+  {
+    "slug": "axis-q6135-le",
+    "category": "视频监控",
+    "label": "AXIS Q6135-LE PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6135-le",
+    "support_url": "https://www.axis.com/products/axis-q6135-le/support"
+  },
+  {
+    "slug": "axis-p1488-le",
+    "category": "视频监控",
+    "label": "AXIS P1488–LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1488-le",
+    "support_url": "https://www.axis.com/products/axis-p1488-le/support"
+  },
+  {
+    "slug": "axis-m3105-lve",
+    "category": "视频监控",
+    "label": "AXIS M3105-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3105-lve",
+    "support_url": "https://www.axis.com/products/axis-m3105-lve/support"
+  },
+  {
+    "slug": "axis-p1375",
+    "category": "视频监控",
+    "label": "AXIS P1375 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1375",
+    "support_url": "https://www.axis.com/products/axis-p1375/support"
+  },
+  {
+    "slug": "axis-q6215-le",
+    "category": "视频监控",
+    "label": "AXIS Q6215-LE PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6215-le",
+    "support_url": "https://www.axis.com/products/axis-q6215-le/support"
+  },
+  {
+    "slug": "axis-q1700-le",
+    "category": "视频监控",
+    "label": "AXIS Q1700-LE License Plate Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1700-le",
+    "support_url": "https://www.axis.com/products/axis-q1700-le/support"
+  },
+  {
+    "slug": "axis-m3106-l-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS M3106-L Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3106-l-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m3106-l-mk-ii/support"
+  },
+  {
+    "slug": "axis-p1375-e",
+    "category": "视频监控",
+    "label": "AXIS P1375-E Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1375-e",
+    "support_url": "https://www.axis.com/products/axis-p1375-e/support"
+  },
+  {
+    "slug": "axis-q6225-le",
+    "category": "视频监控",
+    "label": "AXIS Q6225-LE PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6225-le",
+    "support_url": "https://www.axis.com/products/axis-q6225-le/support"
+  },
+  {
+    "slug": "axis-q1785-le",
+    "category": "视频监控",
+    "label": "AXIS Q1785-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1785-le",
+    "support_url": "https://www.axis.com/products/axis-q1785-le/support"
+  },
+  {
+    "slug": "axis-m3106-l",
+    "category": "视频监控",
+    "label": "AXIS M3106-L Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3106-l",
+    "support_url": "https://www.axis.com/products/axis-m3106-l/support"
+  },
+  {
+    "slug": "axis-p1377",
+    "category": "视频监控",
+    "label": "AXIS P1377 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1377",
+    "support_url": "https://www.axis.com/products/axis-p1377/support"
+  },
+  {
+    "slug": "axis-q6315-le",
+    "category": "视频监控",
+    "label": "AXIS Q6315-LE PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6315-le",
+    "support_url": "https://www.axis.com/products/axis-q6315-le/support"
+  },
+  {
+    "slug": "axis-q1786-le",
+    "category": "视频监控",
+    "label": "AXIS Q1786-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1786-le",
+    "support_url": "https://www.axis.com/products/axis-q1786-le/support"
+  },
+  {
+    "slug": "axis-m3106-lve-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS M3106-LVE Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3106-lve-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m3106-lve-mk-ii/support"
+  },
+  {
+    "slug": "axis-p1377-le",
+    "category": "视频监控",
+    "label": "AXIS P1377-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1377-le",
+    "support_url": "https://www.axis.com/products/axis-p1377-le/support"
+  },
+  {
+    "slug": "axis-q6318-le",
+    "category": "视频监控",
+    "label": "AXIS Q6318-LE PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6318-le",
+    "support_url": "https://www.axis.com/products/axis-q6318-le/support"
+  },
+  {
+    "slug": "axis-q1798-le",
+    "category": "视频监控",
+    "label": "AXIS Q1798-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1798-le",
+    "support_url": "https://www.axis.com/products/axis-q1798-le/support"
+  },
+  {
+    "slug": "axis-m3106-lve",
+    "category": "视频监控",
+    "label": "AXIS M3106-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3106-lve",
+    "support_url": "https://www.axis.com/products/axis-m3106-lve/support"
+  },
+  {
+    "slug": "axis-p1378",
+    "category": "视频监控",
+    "label": "AXIS P1378 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1378",
+    "support_url": "https://www.axis.com/products/axis-p1378/support"
+  },
+  {
+    "slug": "axis-q6325-le",
+    "category": "视频监控",
+    "label": "AXIS Q6325-LE PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6325-le",
+    "support_url": "https://www.axis.com/products/axis-q6325-le/support"
+  },
+  {
+    "slug": "axis-q1800-le",
+    "category": "视频监控",
+    "label": "AXIS Q1800-LE License Plate Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1800-le",
+    "support_url": "https://www.axis.com/products/axis-q1800-le/support"
+  },
+  {
+    "slug": "axis-m3115-lve",
+    "category": "视频监控",
+    "label": "AXIS M3115-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3115-lve",
+    "support_url": "https://www.axis.com/products/axis-m3115-lve/support"
+  },
+  {
+    "slug": "axis-p1378-le",
+    "category": "视频监控",
+    "label": "AXIS P1378-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1378-le",
+    "support_url": "https://www.axis.com/products/axis-p1378-le/support"
+  },
+  {
+    "slug": "axis-q6355-le",
+    "category": "视频监控",
+    "label": "AXIS Q6355-LE PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6355-le",
+    "support_url": "https://www.axis.com/products/axis-q6355-le/support"
+  },
+  {
+    "slug": "axis-q1800-le-3",
+    "category": "视频监控",
+    "label": "AXIS Q1800-LE-3 License Plate Verifier Kit User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1800-le-3",
+    "support_url": "https://www.axis.com/products/axis-q1800-le-3/support"
+  },
+  {
+    "slug": "axis-m3116-lve",
+    "category": "视频监控",
+    "label": "AXIS M3116-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3116-lve",
+    "support_url": "https://www.axis.com/products/axis-m3116-lve/support"
+  },
+  {
+    "slug": "axis-p1385",
+    "category": "视频监控",
+    "label": "AXIS P1385 Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1385",
+    "support_url": "https://www.axis.com/products/axis-p1385/support"
+  },
+  {
+    "slug": "axis-q6358-le",
+    "category": "视频监控",
+    "label": "AXIS Q6358-LE PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6358-le",
+    "support_url": "https://www.axis.com/products/axis-q6358-le/support"
+  },
+  {
+    "slug": "axis-q1806-le",
+    "category": "视频监控",
+    "label": "AXIS Q1806-LE Bullet Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1806-le",
+    "support_url": "https://www.axis.com/products/axis-q1806-le/support"
+  },
+  {
+    "slug": "axis-m3125-lve",
+    "category": "视频监控",
+    "label": "AXIS M3125-LVE Dome Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3125-lve",
+    "support_url": "https://www.axis.com/products/axis-m3125-lve/support"
+  },
+  {
+    "slug": "axis-p1385-b",
+    "category": "视频监控",
+    "label": "AXIS P1385-B Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1385-b",
+    "support_url": "https://www.axis.com/products/axis-p1385-b/support"
+  },
+  {
+    "slug": "axis-q6411-le",
+    "category": "视频监控",
+    "label": "AXIS Q6411-LE Bispectral PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q6411-le",
+    "support_url": "https://www.axis.com/products/axis-q6411-le/support"
+  },
+  {
+    "slug": "axis-q1809-le",
+    "category": "视频监控",
+    "label": "AXIS Q1809-LE Bullet Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1809-le",
+    "support_url": "https://www.axis.com/products/axis-q1809-le/support"
+  },
+  {
+    "slug": "axis-m3126-lve",
+    "category": "视频监控",
+    "label": "AXIS M3126-LVE Dome Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3126-lve",
+    "support_url": "https://www.axis.com/products/axis-m3126-lve/support"
+  },
+  {
+    "slug": "axis-p1385-be",
+    "category": "视频监控",
+    "label": "AXIS P1385-BE Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1385-be",
+    "support_url": "https://www.axis.com/products/axis-p1385-be/support"
+  },
+  {
+    "slug": "axis-q8615-e",
+    "category": "视频监控",
+    "label": "AXIS Q8615-E PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q8615-e",
+    "support_url": "https://www.axis.com/products/axis-q8615-e/support"
+  },
+  {
+    "slug": "axis-m3128-lve",
+    "category": "视频监控",
+    "label": "AXIS M3128-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3128-lve",
+    "support_url": "https://www.axis.com/products/axis-m3128-lve/support"
+  },
+  {
+    "slug": "axis-p1385-e",
+    "category": "视频监控",
+    "label": "AXIS P1385-E Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1385-e",
+    "support_url": "https://www.axis.com/products/axis-p1385-e/support"
+  },
+  {
+    "slug": "axis-q8641-e",
+    "category": "视频监控",
+    "label": "AXIS Q8641–E PT Thermal Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q8641-e",
+    "support_url": "https://www.axis.com/products/axis-q8641-e/support"
+  },
+  {
+    "slug": "axis-m3138-lve",
+    "category": "视频监控",
+    "label": "AXIS M3138-LVE",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3138-lve",
+    "support_url": "https://www.axis.com/products/axis-m3138-lve/support"
+  },
+  {
+    "slug": "axis-p1387",
+    "category": "视频监控",
+    "label": "AXIS P1387 Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1387",
+    "support_url": "https://www.axis.com/products/axis-p1387/support"
+  },
+  {
+    "slug": "axis-q8642-e",
+    "category": "视频监控",
+    "label": "AXIS Q8642–E PT Thermal Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q8642-e",
+    "support_url": "https://www.axis.com/products/axis-q8642-e/support"
+  },
+  {
+    "slug": "axis-m3205-lve",
+    "category": "视频监控",
+    "label": "AXIS M3205-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3205-lve",
+    "support_url": "https://www.axis.com/products/axis-m3205-lve/support"
+  },
+  {
+    "slug": "axis-p1387-b",
+    "category": "视频监控",
+    "label": "AXIS P1387-B Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1387-b",
+    "support_url": "https://www.axis.com/products/axis-p1387-b/support"
+  },
+  {
+    "slug": "axis-q8752-e",
+    "category": "视频监控",
+    "label": "AXIS Q8752-E Bispectral PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q8752-e",
+    "support_url": "https://www.axis.com/products/axis-q8752-e/support"
+  },
+  {
+    "slug": "axis-m3206-lve",
+    "category": "视频监控",
+    "label": "AXIS M3206-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3206-lve",
+    "support_url": "https://www.axis.com/products/axis-m3206-lve/support"
+  },
+  {
+    "slug": "axis-p1387-be",
+    "category": "视频监控",
+    "label": "AXIS P1387-BE Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1387-be",
+    "support_url": "https://www.axis.com/products/axis-p1387-be/support"
+  },
+  {
+    "slug": "axis-q8752-e-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS Q8752-E Mk II Bispectral PTZ Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q8752-e-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-q8752-e-mk-ii/support"
+  },
+  {
+    "slug": "axis-m3215-lve",
+    "category": "视频监控",
+    "label": "AXIS M3215-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3215-lve",
+    "support_url": "https://www.axis.com/products/axis-m3215-lve/support"
+  },
+  {
+    "slug": "axis-p1387-le",
+    "category": "视频监控",
+    "label": "AXIS P1387-LE Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1387-le",
+    "support_url": "https://www.axis.com/products/axis-p1387-le/support"
+  },
+  {
+    "slug": "axis-v5925",
+    "category": "视频监控",
+    "label": "AXIS V5925 PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-v5925",
+    "support_url": "https://www.axis.com/products/axis-v5925/support"
+  },
+  {
+    "slug": "axis-m3216-lve",
+    "category": "视频监控",
+    "label": "AXIS M3216-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3216-lve",
+    "support_url": "https://www.axis.com/products/axis-m3216-lve/support"
+  },
+  {
+    "slug": "axis-p1388",
+    "category": "视频监控",
+    "label": "AXIS P1388 Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1388",
+    "support_url": "https://www.axis.com/products/axis-p1388/support"
+  },
+  {
+    "slug": "axis-v5938",
+    "category": "视频监控",
+    "label": "AXIS V5938 PTZ Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-v5938",
+    "support_url": "https://www.axis.com/products/axis-v5938/support"
+  },
+  {
+    "slug": "axis-m3905-r",
+    "category": "视频监控",
+    "label": "AXIS M3905-R Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3905-r",
+    "support_url": "https://www.axis.com/products/axis-m3905-r/support"
+  },
+  {
+    "slug": "axis-p1388-b",
+    "category": "视频监控",
+    "label": "AXIS P1388-B Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1388-b",
+    "support_url": "https://www.axis.com/products/axis-p1388-b/support"
+  },
+  {
+    "slug": "axis-m3945-r",
+    "category": "视频监控",
+    "label": "AXIS M3945-R Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3945-r",
+    "support_url": "https://www.axis.com/products/axis-m3945-r/support"
+  },
+  {
+    "slug": "axis-p1388-be",
+    "category": "视频监控",
+    "label": "AXIS P1388-BE Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1388-be",
+    "support_url": "https://www.axis.com/products/axis-p1388-be/support"
+  },
+  {
+    "slug": "axis-m4206-lv",
+    "category": "视频监控",
+    "label": "AXIS M4206-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4206-lv",
+    "support_url": "https://www.axis.com/products/axis-m4206-lv/support"
+  },
+  {
+    "slug": "axis-p1388-le",
+    "category": "视频监控",
+    "label": "AXIS P1388-LE Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1388-le",
+    "support_url": "https://www.axis.com/products/axis-p1388-le/support"
+  },
+  {
+    "slug": "axis-m4206-v",
+    "category": "视频监控",
+    "label": "AXIS M4206-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4206-v",
+    "support_url": "https://www.axis.com/products/axis-m4206-v/support"
+  },
+  {
+    "slug": "axis-p1518-e",
+    "category": "视频监控",
+    "label": "AXIS P1518-E Box Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1518-e",
+    "support_url": "https://www.axis.com/products/axis-p1518-e/support"
+  },
+  {
+    "slug": "axis-m4215-lv",
+    "category": "视频监控",
+    "label": "AXIS M4215-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4215-lv",
+    "support_url": "https://www.axis.com/products/axis-m4215-lv/support"
+  },
+  {
+    "slug": "axis-p1518-le",
+    "category": "视频监控",
+    "label": "AXIS P1518-LE",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p1518-le",
+    "support_url": "https://www.axis.com/products/axis-p1518-le/support"
+  },
+  {
+    "slug": "axis-m4215-v",
+    "category": "视频监控",
+    "label": "AXIS M4215-V Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4215-v",
+    "support_url": "https://www.axis.com/products/axis-m4215-v/support"
+  },
+  {
+    "slug": "axis-q1615-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS Q1615 Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1615-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-q1615-mk-ii/support"
+  },
+  {
+    "slug": "axis-m4216-lv",
+    "category": "视频监控",
+    "label": "AXIS M4216-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4216-lv",
+    "support_url": "https://www.axis.com/products/axis-m4216-lv/support"
+  },
+  {
+    "slug": "axis-q1615-mk-iii",
+    "category": "视频监控",
+    "label": "AXIS Q1615 Mk III Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1615-mk-iii",
+    "support_url": "https://www.axis.com/products/axis-q1615-mk-iii/support"
+  },
+  {
+    "slug": "axis-m4216-v",
+    "category": "视频监控",
+    "label": "AXIS M4216-V Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4216-v",
+    "support_url": "https://www.axis.com/products/axis-m4216-v/support"
+  },
+  {
+    "slug": "axis-q1615-e-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS Q1615-E Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1615-e-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-q1615-e-mk-ii/support"
+  },
+  {
+    "slug": "axis-m4218-lv",
+    "category": "视频监控",
+    "label": "AXIS M4218-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4218-lv",
+    "support_url": "https://www.axis.com/products/axis-m4218-lv/support"
+  },
+  {
+    "slug": "axis-q1615-le-mk-iii",
+    "category": "视频监控",
+    "label": "AXIS Q1615-LE Mk III Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1615-le-mk-iii",
+    "support_url": "https://www.axis.com/products/axis-q1615-le-mk-iii/support"
+  },
+  {
+    "slug": "axis-m4218-v",
+    "category": "视频监控",
+    "label": "AXIS M4218-V Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4218-v",
+    "support_url": "https://www.axis.com/products/axis-m4218-v/support"
+  },
+  {
+    "slug": "axis-q1645",
+    "category": "视频监控",
+    "label": "AXIS Q1645 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1645",
+    "support_url": "https://www.axis.com/products/axis-q1645/support"
+  },
+  {
+    "slug": "axis-m4225-lve",
+    "category": "视频监控",
+    "label": "AXIS M4225-LVE Dome Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4225-lve",
+    "support_url": "https://www.axis.com/products/axis-m4225-lve/support"
+  },
+  {
+    "slug": "axis-q1645-le",
+    "category": "视频监控",
+    "label": "AXIS Q1645-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1645-le",
+    "support_url": "https://www.axis.com/products/axis-q1645-le/support"
+  },
+  {
+    "slug": "axis-m4227-lve",
+    "category": "视频监控",
+    "label": "AXIS M4227-LVE Dome Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4227-lve",
+    "support_url": "https://www.axis.com/products/axis-m4227-lve/support"
+  },
+  {
+    "slug": "axis-q1647",
+    "category": "视频监控",
+    "label": "AXIS Q1647 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1647",
+    "support_url": "https://www.axis.com/products/axis-q1647/support"
+  },
+  {
+    "slug": "axis-m4228-lve",
+    "category": "视频监控",
+    "label": "AXIS M4228-LVE Dome Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m4228-lve",
+    "support_url": "https://www.axis.com/products/axis-m4228-lve/support"
+  },
+  {
+    "slug": "axis-q1647-le",
+    "category": "视频监控",
+    "label": "AXIS Q1647-LE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1647-le",
+    "support_url": "https://www.axis.com/products/axis-q1647-le/support"
+  },
+  {
+    "slug": "axis-p3224-lv-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P3224-LV Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3224-lv-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p3224-lv-mk-ii/support"
+  },
+  {
+    "slug": "axis-q1656",
+    "category": "视频监控",
+    "label": "AXIS Q1656 Box Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1656",
+    "support_url": "https://www.axis.com/products/axis-q1656/support"
+  },
+  {
+    "slug": "axis-p3224-lve-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P3224-LVE Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3224-lve-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p3224-lve-mk-ii/support"
+  },
+  {
+    "slug": "axis-q1656-b",
+    "category": "视频监控",
+    "label": "AXIS Q1656-B Box Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1656-b",
+    "support_url": "https://www.axis.com/products/axis-q1656-b/support"
+  },
+  {
+    "slug": "axis-p3224-v-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P3224-V Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3224-v-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p3224-v-mk-ii/support"
+  },
+  {
+    "slug": "axis-q1656-be",
+    "category": "视频监控",
+    "label": "AXIS Q1656-BE Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1656-be",
+    "support_url": "https://www.axis.com/products/axis-q1656-be/support"
+  },
+  {
+    "slug": "axis-p3224-ve-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P3224-VE Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3224-ve-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p3224-ve-mk-ii/support"
+  },
+  {
+    "slug": "axis-q1656-ble",
+    "category": "视频监控",
+    "label": "AXIS Q1656-BLE Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1656-ble",
+    "support_url": "https://www.axis.com/products/axis-q1656-ble/support"
+  },
+  {
+    "slug": "axis-p3225-lv-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P3225-LV Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3225-lv-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p3225-lv-mk-ii/support"
+  },
+  {
+    "slug": "axis-q1656-dle",
+    "category": "视频监控",
+    "label": "AXIS Q1656-DLE Radar-Video Fusion Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1656-dle",
+    "support_url": "https://www.axis.com/products/axis-q1656-dle/support"
+  },
+  {
+    "slug": "axis-p3225-lve-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P3225-LVE Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3225-lve-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p3225-lve-mk-ii/support"
+  },
+  {
+    "slug": "axis-q1656-le",
+    "category": "视频监控",
+    "label": "AXIS Q1656-LE Box Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1656-le",
+    "support_url": "https://www.axis.com/products/axis-q1656-le/support"
+  },
+  {
+    "slug": "axis-p3225-v-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P3225-V Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3225-v-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p3225-v-mk-ii/support"
+  },
+  {
+    "slug": "axis-q1659",
+    "category": "视频监控",
+    "label": "AXIS Q1659 Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1659",
+    "support_url": "https://www.axis.com/products/axis-q1659/support"
+  },
+  {
+    "slug": "axis-p3225-ve-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P3225-VE Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3225-ve-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p3225-ve-mk-ii/support"
+  },
+  {
+    "slug": "axis-q1686-dle",
+    "category": "视频监控",
+    "label": "AXIS Q1686-DLE Radar-Video Fusion Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1686-dle",
+    "support_url": "https://www.axis.com/products/axis-q1686-dle/support"
+  },
+  {
+    "slug": "axis-p3227-lv",
+    "category": "视频监控",
+    "label": "AXIS P3227-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3227-lv",
+    "support_url": "https://www.axis.com/products/axis-p3227-lv/support"
+  },
+  {
+    "slug": "axis-q1715",
+    "category": "视频监控",
+    "label": "AXIS Q1715 Block Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1715",
+    "support_url": "https://www.axis.com/products/axis-q1715/support"
+  },
+  {
+    "slug": "axis-p3227-lve",
+    "category": "视频监控",
+    "label": "AXIS P3227-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3227-lve",
+    "support_url": "https://www.axis.com/products/axis-p3227-lve/support"
+  },
+  {
+    "slug": "axis-q1726",
+    "category": "视频监控",
+    "label": "AXIS Q1726 Block Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1726",
+    "support_url": "https://www.axis.com/products/axis-q1726/support"
+  },
+  {
+    "slug": "axis-p3228-lv",
+    "category": "视频监控",
+    "label": "AXIS P3228-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3228-lv",
+    "support_url": "https://www.axis.com/products/axis-p3228-lv/support"
+  },
+  {
+    "slug": "axis-q1726-le",
+    "category": "视频监控",
+    "label": "AXIS Q1726-LE Block Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1726-le",
+    "support_url": "https://www.axis.com/products/axis-q1726-le/support"
+  },
+  {
+    "slug": "axis-p3228-lve",
+    "category": "视频监控",
+    "label": "AXIS P3228-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3228-lve",
+    "support_url": "https://www.axis.com/products/axis-p3228-lve/support"
+  },
+  {
+    "slug": "axis-q1728",
+    "category": "视频监控",
+    "label": "AXIS Q1728 Block Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1728",
+    "support_url": "https://www.axis.com/products/axis-q1728/support"
+  },
+  {
+    "slug": "axis-p3235-lv",
+    "category": "视频监控",
+    "label": "AXIS P3235-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3235-lv",
+    "support_url": "https://www.axis.com/products/axis-p3235-lv/support"
+  },
+  {
+    "slug": "axis-q1728-le",
+    "category": "视频监控",
+    "label": "AXIS Q1728-LE Block Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q1728-le",
+    "support_url": "https://www.axis.com/products/axis-q1728-le/support"
+  },
+  {
+    "slug": "axis-p3235-lve",
+    "category": "视频监控",
+    "label": "AXIS P3235-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3235-lve",
+    "support_url": "https://www.axis.com/products/axis-p3235-lve/support"
+  },
+  {
+    "slug": "axis-p3245-lv",
+    "category": "视频监控",
+    "label": "AXIS P3245-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3245-lv",
+    "support_url": "https://www.axis.com/products/axis-p3245-lv/support"
+  },
+  {
+    "slug": "axis-p3245-lve",
+    "category": "视频监控",
+    "label": "AXIS P3245-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3245-lve",
+    "support_url": "https://www.axis.com/products/axis-p3245-lve/support"
+  },
+  {
+    "slug": "axis-p3245-lve-3",
+    "category": "视频监控",
+    "label": "AXIS P3245-LVE-3 License Plate Verifier Kit",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3245-lve-3",
+    "support_url": "https://www.axis.com/products/axis-p3245-lve-3/support"
+  },
+  {
+    "slug": "axis-p3245-v",
+    "category": "视频监控",
+    "label": "AXIS P3245-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3245-v",
+    "support_url": "https://www.axis.com/products/axis-p3245-v/support"
+  },
+  {
+    "slug": "axis-p3245-ve",
+    "category": "视频监控",
+    "label": "AXIS P3245-VE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3245-ve",
+    "support_url": "https://www.axis.com/products/axis-p3245-ve/support"
+  },
+  {
+    "slug": "axis-p3247-lv",
+    "category": "视频监控",
+    "label": "AXIS P3247-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3247-lv",
+    "support_url": "https://www.axis.com/products/axis-p3247-lv/support"
+  },
+  {
+    "slug": "axis-p3247-lve",
+    "category": "视频监控",
+    "label": "AXIS P3247-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3247-lve",
+    "support_url": "https://www.axis.com/products/axis-p3247-lve/support"
+  },
+  {
+    "slug": "axis-p3248-lv",
+    "category": "视频监控",
+    "label": "AXIS P3248-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3248-lv",
+    "support_url": "https://www.axis.com/products/axis-p3248-lv/support"
+  },
+  {
+    "slug": "axis-p3248-lve",
+    "category": "视频监控",
+    "label": "AXIS P3248-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3248-lve",
+    "support_url": "https://www.axis.com/products/axis-p3248-lve/support"
+  },
+  {
+    "slug": "axis-p3255-lve",
+    "category": "视频监控",
+    "label": "AXIS P3255-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3255-lve",
+    "support_url": "https://www.axis.com/products/axis-p3255-lve/support"
+  },
+  {
+    "slug": "axis-p3265-lv",
+    "category": "视频监控",
+    "label": "AXIS P3265-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3265-lv",
+    "support_url": "https://www.axis.com/products/axis-p3265-lv/support"
+  },
+  {
+    "slug": "axis-p3265-lve",
+    "category": "视频监控",
+    "label": "AXIS P3265-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3265-lve",
+    "support_url": "https://www.axis.com/products/axis-p3265-lve/support"
+  },
+  {
+    "slug": "axis-p3265-lve-3",
+    "category": "视频监控",
+    "label": "AXIS P3265-LVE-3 License Plate Verifier Kit",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3265-lve-3",
+    "support_url": "https://www.axis.com/products/axis-p3265-lve-3/support"
+  },
+  {
+    "slug": "axis-p3265-v",
+    "category": "视频监控",
+    "label": "AXIS P3265-V Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3265-v",
+    "support_url": "https://www.axis.com/products/axis-p3265-v/support"
+  },
+  {
+    "slug": "axis-p3267-lv",
+    "category": "视频监控",
+    "label": "AXIS P3267-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3267-lv",
+    "support_url": "https://www.axis.com/products/axis-p3267-lv/support"
+  },
+  {
+    "slug": "axis-p3267-lve",
+    "category": "视频监控",
+    "label": "AXIS P3267-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3267-lve",
+    "support_url": "https://www.axis.com/products/axis-p3267-lve/support"
+  },
+  {
+    "slug": "axis-p3268-lv",
+    "category": "视频监控",
+    "label": "AXIS P3268-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3268-lv",
+    "support_url": "https://www.axis.com/products/axis-p3268-lv/support"
+  },
+  {
+    "slug": "axis-p3268-lve",
+    "category": "视频监控",
+    "label": "AXIS P3268-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3268-lve",
+    "support_url": "https://www.axis.com/products/axis-p3268-lve/support"
+  },
+  {
+    "slug": "axis-p3268-slve",
+    "category": "视频监控",
+    "label": "AXIS P3268–SLVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3268-slve",
+    "support_url": "https://www.axis.com/products/axis-p3268-slve/support"
+  },
+  {
+    "slug": "axis-p3275-lv",
+    "category": "视频监控",
+    "label": "AXIS P3275-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3275-lv",
+    "support_url": "https://www.axis.com/products/axis-p3275-lv/support"
+  },
+  {
+    "slug": "axis-p3275-lve",
+    "category": "视频监控",
+    "label": "AXIS P3275-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3275-lve",
+    "support_url": "https://www.axis.com/products/axis-p3275-lve/support"
+  },
+  {
+    "slug": "axis-p3275-v",
+    "category": "视频监控",
+    "label": "AXIS P3275-V",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3275-v",
+    "support_url": "https://www.axis.com/products/axis-p3275-v/support"
+  },
+  {
+    "slug": "axis-p3277-lv",
+    "category": "视频监控",
+    "label": "AXIS P3277-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3277-lv",
+    "support_url": "https://www.axis.com/products/axis-p3277-lv/support"
+  },
+  {
+    "slug": "axis-p3277-lve",
+    "category": "视频监控",
+    "label": "AXIS P3277-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3277-lve",
+    "support_url": "https://www.axis.com/products/axis-p3277-lve/support"
+  },
+  {
+    "slug": "axis-p3278-lv",
+    "category": "视频监控",
+    "label": "AXIS P3278-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3278-lv",
+    "support_url": "https://www.axis.com/products/axis-p3278-lv/support"
+  },
+  {
+    "slug": "axis-p3278-lve",
+    "category": "视频监控",
+    "label": "AXIS P3278-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3278-lve",
+    "support_url": "https://www.axis.com/products/axis-p3278-lve/support"
+  },
+  {
+    "slug": "axis-p3285-lv",
+    "category": "视频监控",
+    "label": "AXIS P3285-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3285-lv",
+    "support_url": "https://www.axis.com/products/axis-p3285-lv/support"
+  },
+  {
+    "slug": "axis-p3285-lve",
+    "category": "视频监控",
+    "label": "AXIS P3285-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3285-lve",
+    "support_url": "https://www.axis.com/products/axis-p3285-lve/support"
+  },
+  {
+    "slug": "axis-p3285-lve-kit",
+    "category": "视频监控",
+    "label": "AXIS P3285-LVE Kit",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3285-lve-kit",
+    "support_url": "https://www.axis.com/products/axis-p3285-lve-kit/support"
+  },
+  {
+    "slug": "axis-p3287-lv",
+    "category": "视频监控",
+    "label": "AXIS P3287-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3287-lv",
+    "support_url": "https://www.axis.com/products/axis-p3287-lv/support"
+  },
+  {
+    "slug": "axis-p3287-lve",
+    "category": "视频监控",
+    "label": "AXIS P3287-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3287-lve",
+    "support_url": "https://www.axis.com/products/axis-p3287-lve/support"
+  },
+  {
+    "slug": "axis-p3288-lv",
+    "category": "视频监控",
+    "label": "AXIS P3288-LV Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3288-lv",
+    "support_url": "https://www.axis.com/products/axis-p3288-lv/support"
+  },
+  {
+    "slug": "axis-p3288-lve",
+    "category": "视频监控",
+    "label": "AXIS P3288-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3288-lve",
+    "support_url": "https://www.axis.com/products/axis-p3288-lve/support"
+  },
+  {
+    "slug": "axis-p3374-lv",
+    "category": "视频监控",
+    "label": "AXIS P3374-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3374-lv",
+    "support_url": "https://www.axis.com/products/axis-p3374-lv/support"
+  },
+  {
+    "slug": "axis-p3374-v",
+    "category": "视频监控",
+    "label": "AXIS P3374-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3374-v",
+    "support_url": "https://www.axis.com/products/axis-p3374-v/support"
+  },
+  {
+    "slug": "axis-p3375-lv",
+    "category": "视频监控",
+    "label": "AXIS P3375-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3375-lv",
+    "support_url": "https://www.axis.com/products/axis-p3375-lv/support"
+  },
+  {
+    "slug": "axis-p3375-lve",
+    "category": "视频监控",
+    "label": "AXIS P3375-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3375-lve",
+    "support_url": "https://www.axis.com/products/axis-p3375-lve/support"
+  },
+  {
+    "slug": "axis-p3375-v",
+    "category": "视频监控",
+    "label": "AXIS P3375-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3375-v",
+    "support_url": "https://www.axis.com/products/axis-p3375-v/support"
+  },
+  {
+    "slug": "axis-p3375-ve",
+    "category": "视频监控",
+    "label": "AXIS P3375-VE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3375-ve",
+    "support_url": "https://www.axis.com/products/axis-p3375-ve/support"
+  },
+  {
+    "slug": "axis-p3407-ve",
+    "category": "视频监控",
+    "label": "AXIS P3407-VE",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3407-ve",
+    "support_url": "https://www.axis.com/products/axis-p3407-ve/support"
+  },
+  {
+    "slug": "axis-p3715-plve",
+    "category": "视频监控",
+    "label": "AXIS P3715-PLVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3715-plve",
+    "support_url": "https://www.axis.com/products/axis-p3715-plve/support"
+  },
+  {
+    "slug": "axis-p3717-ple",
+    "category": "视频监控",
+    "label": "AXIS P3717-PLE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3717-ple",
+    "support_url": "https://www.axis.com/products/axis-p3717-ple/support"
+  },
+  {
+    "slug": "axis-p3719-ple",
+    "category": "视频监控",
+    "label": "AXIS P3719-PLE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3719-ple",
+    "support_url": "https://www.axis.com/products/axis-p3719-ple/support"
+  },
+  {
+    "slug": "axis-p3727-ple",
+    "category": "视频监控",
+    "label": "AXIS P3727-PLE Panoramic Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3727-ple",
+    "support_url": "https://www.axis.com/products/axis-p3727-ple/support"
+  },
+  {
+    "slug": "axis-p3807-pve",
+    "category": "视频监控",
+    "label": "AXIS P3807-PVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3807-pve",
+    "support_url": "https://www.axis.com/products/axis-p3807-pve/support"
+  },
+  {
+    "slug": "axis-p3905-r-mk-ii",
+    "category": "视频监控",
+    "label": "AXIS P3905-R Mk II Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3905-r-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-p3905-r-mk-ii/support"
+  },
+  {
+    "slug": "axis-p3905-r-mk-iii",
+    "category": "视频监控",
+    "label": "AXIS P3905-R Mk III Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3905-r-mk-iii",
+    "support_url": "https://www.axis.com/products/axis-p3905-r-mk-iii/support"
+  },
+  {
+    "slug": "axis-p3925-lre",
+    "category": "视频监控",
+    "label": "AXIS P3925-LRE",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3925-lre",
+    "support_url": "https://www.axis.com/products/axis-p3925-lre/support"
+  },
+  {
+    "slug": "axis-p3925-r",
+    "category": "视频监控",
+    "label": "AXIS P3925-R",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3925-r",
+    "support_url": "https://www.axis.com/products/axis-p3925-r/support"
+  },
+  {
+    "slug": "axis-p3935-lr",
+    "category": "视频监控",
+    "label": "AXIS P3935-LR",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3935-lr",
+    "support_url": "https://www.axis.com/products/axis-p3935-lr/support"
+  },
+  {
+    "slug": "axis-p3945-r",
+    "category": "视频监控",
+    "label": "AXIS P3945-R Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3945-r",
+    "support_url": "https://www.axis.com/products/axis-p3945-r/support"
+  },
+  {
+    "slug": "axis-p3947-r",
+    "category": "视频监控",
+    "label": "AXIS P3947-R Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p3947-r",
+    "support_url": "https://www.axis.com/products/axis-p3947-r/support"
+  },
+  {
+    "slug": "axis-p9106-v",
+    "category": "视频监控",
+    "label": "AXIS P9106-V Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-p9106-v",
+    "support_url": "https://www.axis.com/products/axis-p9106-v/support"
+  },
+  {
+    "slug": "axis-q3515-lv",
+    "category": "视频监控",
+    "label": "AXIS Q3515-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3515-lv",
+    "support_url": "https://www.axis.com/products/axis-q3515-lv/support"
+  },
+  {
+    "slug": "axis-q3515-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3515-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3515-lve",
+    "support_url": "https://www.axis.com/products/axis-q3515-lve/support"
+  },
+  {
+    "slug": "axis-q3517-lv",
+    "category": "视频监控",
+    "label": "AXIS Q3517-LV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3517-lv",
+    "support_url": "https://www.axis.com/products/axis-q3517-lv/support"
+  },
+  {
+    "slug": "axis-q3517-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3517-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3517-lve",
+    "support_url": "https://www.axis.com/products/axis-q3517-lve/support"
+  },
+  {
+    "slug": "axis-q3517-slve",
+    "category": "视频监控",
+    "label": "AXIS Q3517-SLVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3517-slve",
+    "support_url": "https://www.axis.com/products/axis-q3517-slve/support"
+  },
+  {
+    "slug": "axis-q3518-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3518-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3518-lve",
+    "support_url": "https://www.axis.com/products/axis-q3518-lve/support"
+  },
+  {
+    "slug": "axis-q3527-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3527-LVE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3527-lve",
+    "support_url": "https://www.axis.com/products/axis-q3527-lve/support"
+  },
+  {
+    "slug": "axis-q3536-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3536-LVE Fixed Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3536-lve",
+    "support_url": "https://www.axis.com/products/axis-q3536-lve/support"
+  },
+  {
+    "slug": "axis-q3538-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3538-LVE Fixed Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3538-lve",
+    "support_url": "https://www.axis.com/products/axis-q3538-lve/support"
+  },
+  {
+    "slug": "axis-q3538-slve",
+    "category": "视频监控",
+    "label": "AXIS Q3538-SLVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3538-slve",
+    "support_url": "https://www.axis.com/products/axis-q3538-slve/support"
+  },
+  {
+    "slug": "axis-q3546-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3546-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3546-lve",
+    "support_url": "https://www.axis.com/products/axis-q3546-lve/support"
+  },
+  {
+    "slug": "axis-q3548-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3548-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3548-lve",
+    "support_url": "https://www.axis.com/products/axis-q3548-lve/support"
+  },
+  {
+    "slug": "axis-q3556-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3556-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3556-lve",
+    "support_url": "https://www.axis.com/products/axis-q3556-lve/support"
+  },
+  {
+    "slug": "axis-q3558-lve",
+    "category": "视频监控",
+    "label": "AXIS Q3558-LVE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3558-lve",
+    "support_url": "https://www.axis.com/products/axis-q3558-lve/support"
+  },
+  {
+    "slug": "axis-q3615-ve",
+    "category": "视频监控",
+    "label": "AXIS Q3615-VE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3615-ve",
+    "support_url": "https://www.axis.com/products/axis-q3615-ve/support"
+  },
+  {
+    "slug": "axis-q3617-ve",
+    "category": "视频监控",
+    "label": "AXIS Q3617-VE Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3617-ve",
+    "support_url": "https://www.axis.com/products/axis-q3617-ve/support"
+  },
+  {
+    "slug": "axis-q3626-ve",
+    "category": "视频监控",
+    "label": "AXIS Q3626-VE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3626-ve",
+    "support_url": "https://www.axis.com/products/axis-q3626-ve/support"
+  },
+  {
+    "slug": "axis-q3628-ve",
+    "category": "视频监控",
+    "label": "AXIS Q3628-VE Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q3628-ve",
+    "support_url": "https://www.axis.com/products/axis-q3628-ve/support"
+  },
+  {
+    "slug": "axis-q9216-slv",
+    "category": "视频监控",
+    "label": "AXIS Q9216-SLV Network Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q9216-slv",
+    "support_url": "https://www.axis.com/products/axis-q9216-slv/support"
+  },
+  {
+    "slug": "axis-q9307-lv",
+    "category": "视频监控",
+    "label": "AXIS Q9307-LV Dome Camera User manual",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-q9307-lv",
+    "support_url": "https://www.axis.com/products/axis-q9307-lv/support"
+  },
+  {
+    "slug": "axis-m3057-plr-mk-ii",
+    "category": "视频监控",
+    "label": "M3057-PLR Mk II",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3057-plr-mk-ii",
+    "support_url": "https://www.axis.com/products/axis-m3057-plr-mk-ii/support"
+  },
+  {
+    "slug": "axis-m3088-v",
+    "category": "视频监控",
+    "label": "M3088-V Dome Camera",
+    "discovered_on": "https://help.axis.com/en-us/",
+    "manual_url": "https://help.axis.com/en-us/axis-m3088-v",
+    "support_url": "https://www.axis.com/products/axis-m3088-v/support"
+  }
+]

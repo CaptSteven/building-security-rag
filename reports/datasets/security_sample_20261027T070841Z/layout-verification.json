@@ -1,0 +1,55 @@
+{
+  "at": "2026-10-27T07:23:51.528400+00:00",
+  "layout_version": 2,
+  "files": [
+    {
+      "asset_id": "A001",
+      "sha256_verified": true,
+      "path": "data/raw/pdfs/security_sample_20261027T070841Z/video_surveillance/axis-m2035-le/A001_axis-m2035-le_datasheet.pdf"
+    },
+    {
+      "asset_id": "A002",
+      "sha256_verified": true,
+      "path": "data/raw/pdfs/security_sample_20261027T070841Z/video_surveillance/axis-m2035-le/A002_axis-m2035-le_installation.pdf"
+    },
+    {
+      "asset_id": "A004",
+      "sha256_verified": true,
+      "path": "data/raw/pdfs/security_sample_20261027T070841Z/access_control/axis-a1210/A004_axis-a1210_datasheet.pdf"
+    },
+    {
+      "asset_id": "A005",
+      "sha256_verified": true,
+      "path": "data/raw/pdfs/security_sample_20261027T070841Z/access_control/axis-a1210/A005_axis-a1210_wiring.pdf"
+    },
+    {
+      "asset_id": "A006",
+      "sha256_verified": true,
+      "path": "data/raw/pdfs/security_sample_20261027T070841Z/access_control/axis-a1210/A006_axis-a1210_installation.pdf"
+    },
+    {
+      "asset_id": "A007",
+      "sha256_verified": true,
+      "path": "data/raw/pdfs/security_sample_20261027T070841Z/access_control/axis-a1210/A007_axis-a1210_comparison.pdf"
+    },
+    {
+      "asset_id": "A008",
+      "sha256_verified": true,
+      "path": "data/raw/pdfs/security_sample_20261027T070841Z/intercom/axis-i8116-e/A008_axis-i8116-e_datasheet.pdf"
+    },
+    {
+      "asset_id": "A009",
+      "sha256_verified": true,
+      "path": "data/raw/pdfs/security_sample_20261027T070841Z/intercom/axis-i8116-e/A009_axis-i8116-e_installation.pdf"
+    },
+    {
+      "asset_id": "A011",
+      "sha256_verified": true,
+      "path": "data/raw/pdfs/security_sample_20261027T070841Z/intrusion_alarm/optex-flx-p-dt/A011_optex-flx-p-dt_datasheet.pdf"
+    }
+  ],
+  "sqlite_integrity_check": "ok",
+  "sqlite_pages": 145,
+  "manifest_sha256": "e61ec2f4d6b3f91f4b506e5d76f5b8cf02c19765a95ea48b5ddfc894b69dad15",
+  "database_sha256": "04c8858d9c6d1b7b55540680a6671a15ac86d9e2b76c7c834179e2a115e4ebad"
+}

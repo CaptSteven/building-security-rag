@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-m5074/support",
+  "final_url": "https://www.axis.com/products/axis-m5074/support",
+  "retrieved_at": "2026-10-27T07:50:35.460779+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087434\"",
+  "last_modified": "Tue, 27 Oct 2026 07:50:34 GMT",
+  "sha256": "88d804168baf9fc381a90c9c95550b5bd366475ab7757483f970b582d6bafbdc",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/1fb151858ad2f6d4.html",
+  "source_id": "1fb151858ad2f6d4"
+}

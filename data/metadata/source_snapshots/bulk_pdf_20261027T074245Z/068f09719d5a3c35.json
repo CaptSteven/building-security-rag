@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-a1210-b/support",
+  "final_url": "https://www.axis.com/products/axis-a1210-b/support",
+  "retrieved_at": "2026-10-27T07:45:39.736663+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087139\"",
+  "last_modified": "Tue, 27 Oct 2026 07:45:39 GMT",
+  "sha256": "05a6c7f7fac1646a6fb708fab0451ad8ba951277ad50e4bebd2c56e9b95c687c",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/068f09719d5a3c35.html",
+  "source_id": "068f09719d5a3c35"
+}

@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-27T07:23:50.937962+00:00",
+  "moves": [
+    {
+      "old_path": "docs/data-pipeline.md",
+      "new_path": "docs/history/data-pipeline-20261021.md",
+      "sha256": "0958baf710642e5e61c7fbb8b905662f86c49e2cd05bfc02d7a2b30e34f26650"
+    },
+    {
+      "old_path": "docs/verification.md",
+      "new_path": "docs/history/verification-20261021.md",
+      "sha256": "2924701136be01b888d100b906cbf1746593ed220a74cb97a99244ea7abcdb90"
+    }
+  ]
+}

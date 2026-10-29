@@ -1,0 +1,26 @@
+# robots.txt for https://www.optex-europe.com/
+
+sitemap: https://www.optex-europe.com/sitemaps-1-sitemap.xml
+sitemap: https://www.optex-europe.com/fr/sitemaps-1-sitemap.xml
+sitemap: https://www.optex-europe.com/de/sitemaps-1-sitemap.xml
+sitemap: https://www.optex-europe.com/es/sitemaps-1-sitemap.xml
+sitemap: https://www.optex-europe.com/it/sitemaps-1-sitemap.xml
+sitemap: https://www.optex-europe.com/nl/sitemaps-1-sitemap.xml
+sitemap: https://www.optex-europe.com/pl/sitemaps-1-sitemap.xml
+
+# live - don't allow web crawlers to index cpresources/ or vendor/
+
+User-agent: *
+Disallow: /cpresources/
+Disallow: /vendor/
+Disallow: /.env
+Disallow: /cache/
+
+
+# Disallow ChatGPT bot, as there's no benefit to allowing it to index your site
+User-agent: GPTBot
+Disallow: /
+
+# Disallow Google Bard and Vertex AI bots, as there's no benefit to allowing it to index your site
+User-agent: Google-Extended
+Disallow: /

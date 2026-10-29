@@ -1,0 +1,4 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yD3QUrXbsjQ
+[youtube] yD3QUrXbsjQ: Downloading webpage
+[youtube] yD3QUrXbsjQ: Downloading visionos player API JSON
+ERROR: [youtube] yD3QUrXbsjQ: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies

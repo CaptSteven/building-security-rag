@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-a8207-ve-mk-ii/support",
+  "final_url": "https://www.axis.com/products/axis-a8207-ve-mk-ii/support",
+  "retrieved_at": "2026-10-27T07:47:25.196751+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793040339\"",
+  "last_modified": "Mon, 26 Oct 2026 18:45:39 GMT",
+  "sha256": "052f6e6ef46723a5bf7a919d28d3df143df9d9f88d311bd24401dc28f8a9ee86",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/739ae73f6368e836.html",
+  "source_id": "739ae73f6368e836"
+}

@@ -1,0 +1,101 @@
+{
+  "checked_at": "2026-10-27T07:11:44.067833+00:00",
+  "files": [
+    {
+      "asset_id": "A001",
+      "raw_sha256_verified": true,
+      "page_count": 5,
+      "extracted_characters": 8002,
+      "pages_under_30_chars": [],
+      "text_semantically_reviewed": false,
+      "render_status": "first_page_rendered"
+    },
+    {
+      "asset_id": "A002",
+      "raw_sha256_verified": true,
+      "page_count": 36,
+      "extracted_characters": 43034,
+      "pages_under_30_chars": [
+        35
+      ],
+      "text_semantically_reviewed": false,
+      "render_status": "first_page_rendered"
+    },
+    {
+      "asset_id": "A004",
+      "raw_sha256_verified": true,
+      "page_count": 6,
+      "extracted_characters": 8544,
+      "pages_under_30_chars": [
+        5
+      ],
+      "text_semantically_reviewed": false,
+      "render_status": "first_page_rendered"
+    },
+    {
+      "asset_id": "A005",
+      "raw_sha256_verified": true,
+      "page_count": 14,
+      "extracted_characters": 14907,
+      "pages_under_30_chars": [],
+      "text_semantically_reviewed": false,
+      "render_status": "first_page_rendered"
+    },
+    {
+      "asset_id": "A006",
+      "raw_sha256_verified": true,
+      "page_count": 42,
+      "extracted_characters": 53461,
+      "pages_under_30_chars": [
+        22,
+        41
+      ],
+      "text_semantically_reviewed": false,
+      "render_status": "first_page_rendered"
+    },
+    {
+      "asset_id": "A007",
+      "raw_sha256_verified": true,
+      "page_count": 1,
+      "extracted_characters": 1616,
+      "pages_under_30_chars": [],
+      "text_semantically_reviewed": false,
+      "render_status": "first_page_rendered"
+    },
+    {
+      "asset_id": "A008",
+      "raw_sha256_verified": true,
+      "page_count": 7,
+      "extracted_characters": 13644,
+      "pages_under_30_chars": [
+        6
+      ],
+      "text_semantically_reviewed": false,
+      "render_status": "first_page_rendered"
+    },
+    {
+      "asset_id": "A009",
+      "raw_sha256_verified": true,
+      "page_count": 32,
+      "extracted_characters": 41905,
+      "pages_under_30_chars": [
+        31
+      ],
+      "text_semantically_reviewed": false,
+      "render_status": "first_page_rendered"
+    },
+    {
+      "asset_id": "A011",
+      "raw_sha256_verified": true,
+      "page_count": 2,
+      "extracted_characters": 4135,
+      "pages_under_30_chars": [],
+      "text_semantically_reviewed": false,
+      "render_status": "first_page_rendered"
+    }
+  ],
+  "note": "首轮提取曾提示缺少 fontTools；初次 pages/ 保留，本轮使用安装 fontTools 后的 pages_v2/。原件未修改。",
+  "sqlite_integrity_check": "ok",
+  "devices": 4,
+  "pages": 145
+}

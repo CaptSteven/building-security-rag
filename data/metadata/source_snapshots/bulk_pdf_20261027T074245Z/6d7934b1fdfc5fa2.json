@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-m1055-l/support",
+  "final_url": "https://www.axis.com/products/axis-m1055-l/support",
+  "retrieved_at": "2026-10-27T07:50:29.379082+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087428\"",
+  "last_modified": "Tue, 27 Oct 2026 07:50:28 GMT",
+  "sha256": "71bbba0b0db3b9dec59c7460ffbeed22fd0e8171420e35582bc7f52ca746b631",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/6d7934b1fdfc5fa2.html",
+  "source_id": "6d7934b1fdfc5fa2"
+}

@@ -1,0 +1,21 @@
+{
+  "version": "conservative-whitespace-v1",
+  "rules": {
+    "normalize_line_ending": "CRLF/CR 等换行统一为 LF，保留页边界",
+    "remove_bom": "移除文本中的 Unicode BOM，记录变化",
+    "remove_control": "移除除制表/换行以外的 C0/DEL 控制字符",
+    "normalize_space": "NBSP 与窄不换行空格转为普通空格",
+    "collapse_horizontal_space": "行内连续普通空格/制表符合并为单空格",
+    "trim_line_edges": "清理每行首尾的普通空格",
+    "collapse_blank_lines": "连续空行最多保留两行；移除的行保留映射记录"
+  },
+  "forbidden": [
+    "不补写事实",
+    "不改写数字、型号或单位",
+    "不自动拼词/去连字符",
+    "不移除页眉页脚",
+    "不丢弃空页",
+    "不做OCR或模型改写"
+  ],
+  "offset_unit": "Python Unicode code points; end-exclusive"
+}

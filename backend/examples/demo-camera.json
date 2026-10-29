@@ -1,0 +1,14 @@
+{
+  "source_key": "demo:camera:v1",
+  "title": "虚构示例：DEMO-CAM-4 资料",
+  "version": "demo-v1",
+  "review_status": "demo",
+  "device": {
+    "brand": "DEMO（虚构）",
+    "model": "DEMO-CAM-4",
+    "category": "视频监控",
+    "protocols": ["ONVIF", "RTSP"],
+    "specs": {"resolution_mp": 4, "poe": true, "ip_rating": "IP67"}
+  },
+  "text": "本文件是测试流程用的虚构设备资料，不能用于采购或工程选型。DEMO-CAM-4 是虚构的四百万像素网络摄像机，示例参数包括 PoE 供电、IP67 防护，以及 ONVIF 和 RTSP 协议。协议声明不表示已经验证与任意录像机兼容；兼容性需要结合具体型号、固件版本及测试结果核验。"
+}

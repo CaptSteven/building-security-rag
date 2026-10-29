@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-q1805-le/support",
+  "final_url": "https://www.axis.com/products/axis-q1805-le/support",
+  "retrieved_at": "2026-10-27T07:48:37.310562+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1792917893\"",
+  "last_modified": "Sun, 25 Oct 2026 08:44:53 GMT",
+  "sha256": "bc6b298ee6b305dd810c8b50f51edba6c121534f96d63cd531e7db68716f82b6",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/6243dc662df2e467.html",
+  "source_id": "6243dc662df2e467"
+}

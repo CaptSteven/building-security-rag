@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.optex-europe.com/support/downloads?page=5",
+  "final_url": "https://www.optex-europe.com/support/downloads?page=5",
+  "retrieved_at": "2026-10-27T07:43:41.213834+00:00",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "sha256": "1957a6b9893bf4464f82ac4cbbe6bb2391a0d9c052fb9960aad4fa309663b08d",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/7cefa24f90f62437.html",
+  "source_id": "7cefa24f90f62437"
+}

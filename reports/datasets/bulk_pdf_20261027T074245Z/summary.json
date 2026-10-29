@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-27T07:51:49.735718+00:00",
+  "run_id": "bulk_pdf_20261027T074245Z",
+  "baseline_unique_pdfs": 9,
+  "total_unique_pdfs": 110,
+  "new_status_counts": {
+    "downloaded": 101,
+    "failed": 1,
+    "manual_required": 3
+  },
+  "new_pdf_categories": {
+    "入侵报警": 25,
+    "门禁": 22,
+    "对讲": 16,
+    "视频监控": 38
+  },
+  "new_pdf_pages": 1743,
+  "new_pdf_bytes": 272859021
+}

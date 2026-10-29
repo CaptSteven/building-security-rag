@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-i7010-ve-safety/support",
+  "final_url": "https://www.axis.com/products/axis-i7010-ve-safety/support",
+  "retrieved_at": "2026-10-27T07:47:58.242666+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087277\"",
+  "last_modified": "Tue, 27 Oct 2026 07:47:57 GMT",
+  "sha256": "8e18291c10f686fe6856da18d59cf9496f40a7bd4e42a6d7093d637bb32a042b",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/b00e6f3b06f63a5f.html",
+  "source_id": "b00e6f3b06f63a5f"
+}

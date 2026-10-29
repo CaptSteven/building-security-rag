@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-a1610-b/support",
+  "final_url": "https://www.axis.com/products/axis-a1610-b/support",
+  "retrieved_at": "2026-10-27T07:46:27.175303+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087186\"",
+  "last_modified": "Tue, 27 Oct 2026 07:46:26 GMT",
+  "sha256": "79d997540070bb63718bbc92e1abd471beada54e93863aad5d654839e06406af",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/56601f5afeb47ce0.html",
+  "source_id": "56601f5afeb47ce0"
+}

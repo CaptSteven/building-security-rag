@@ -1,0 +1,11 @@
+{
+  "issue": "初次 publish 校验遇到合法 JSON 字符串内 Unicode 分隔符，旧 splitlines 误切分；在来源清单和数据库更新前失败。",
+  "repair": "按文件物理换行读取；增加回归测试。原执行快照不改写，修复后的发布代码另存 publication-code。",
+  "successful_publication": "data/metadata/processing/cleaning_20261027T084605Z/publication.json",
+  "code_sha256": {
+    "pipelines/cleaning/process_library.py": "232ee39f65319d35b96752f326c254290cda2335aceb46db65e51d5cf25a8728",
+    "pipelines/jsonl.py": "3e2755349595cd4401328f0ab8d296c89e836bac5674e2a2cb61f14a7ff324ce",
+    "pipelines/collection/build_library.py": "f47a29e184c32219fc4b905cd3c80722090ef3e97ed8f7434e0426388edaf607",
+    "database/sqlite/library_schema.sql": "5b54bfc04cf9e27c98d8ae56f1dbb858928e4aeafd585a236a598f00e096fc23"
+  }
+}

@@ -1,0 +1,31 @@
+[project]
+name = "building-security-rag"
+version = "0.1.0"
+description = "楼宇安保设备知识库：PostgreSQL + pgvector + 可替换模型 API"
+requires-python = ">=3.11"
+dependencies = ["building-security-rag-backend"]
+
+[dependency-groups]
+collection = [
+    "beautifulsoup4>=4.15.0",
+    "fonttools>=4.67.0",
+    "pillow>=13.0.0",
+    "yt-dlp>=2026.10.26",
+]
+dev = ["pytest>=8,<10"]
+
+[tool.pytest.ini_options]
+pythonpath = ["backend/src", "."]
+testpaths = ["backend/tests", "pipelines/tests"]
+cache_dir = ".cache/pytest"
+markers = ["integration: requires running PostgreSQL with pgvector"]
+
+
+[tool.uv]
+package = false
+
+[tool.uv.workspace]
+members = ["backend"]
+
+[tool.uv.sources]
+building-security-rag-backend = { workspace = true }

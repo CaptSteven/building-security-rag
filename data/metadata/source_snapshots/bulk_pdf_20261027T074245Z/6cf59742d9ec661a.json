@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-m5000/support",
+  "final_url": "https://www.axis.com/products/axis-m5000/support",
+  "retrieved_at": "2026-10-27T07:49:15.491547+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087354\"",
+  "last_modified": "Tue, 27 Oct 2026 07:49:14 GMT",
+  "sha256": "6de9214c08ec0c11568605fcd28246ddcb079738452b8b1e2d60996dd85b2fbf",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/6cf59742d9ec661a.html",
+  "source_id": "6cf59742d9ec661a"
+}

@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-m3044-v/support",
+  "final_url": "https://www.axis.com/products/axis-m3044-v/support",
+  "retrieved_at": "2026-10-27T07:50:49.639241+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1792917676\"",
+  "last_modified": "Sun, 25 Oct 2026 08:41:16 GMT",
+  "sha256": "0e0e60de7043c5a71bd9bf9ad33298f14137e868bd945dff6912da02f34863e1",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/b357d4c27ff84bf1.html",
+  "source_id": "b357d4c27ff84bf1"
+}

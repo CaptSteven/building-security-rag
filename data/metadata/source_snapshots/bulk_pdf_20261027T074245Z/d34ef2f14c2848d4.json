@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-m1045-lw/support",
+  "final_url": "https://www.axis.com/products/axis-m1045-lw/support",
+  "retrieved_at": "2026-10-27T07:49:57.927318+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793056583\"",
+  "last_modified": "Mon, 26 Oct 2026 23:16:23 GMT",
+  "sha256": "e4610ec90b4c6a39631a4afe9c78b1acfdc14ba82848292a243a4022f45089d3",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/d34ef2f14c2848d4.html",
+  "source_id": "d34ef2f14c2848d4"
+}

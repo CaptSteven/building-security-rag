@@ -1,0 +1,12 @@
+{
+  "requested_url": "https://www.axis.com/products/axis-i8307-ve/support",
+  "final_url": "https://www.axis.com/products/axis-i8307-ve/support",
+  "retrieved_at": "2026-10-27T07:48:25.873546+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "\"1793087305\"",
+  "last_modified": "Tue, 27 Oct 2026 07:48:25 GMT",
+  "sha256": "c8ff6a49cd75dd93795b0921f7eaf7ce57a349f423487072dd3cb97eb2a74cc9",
+  "snapshot": "data/raw/webpages/bulk_pdf_20261027T074245Z/120c643ee1e03186.html",
+  "source_id": "120c643ee1e03186"
+}

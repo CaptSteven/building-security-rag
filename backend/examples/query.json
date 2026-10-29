@@ -1,0 +1,6 @@
+{
+  "question": "DEMO-CAM-4 支持哪些协议？",
+  "filters": {"category": "视频监控", "model": "DEMO-CAM-4", "include_unverified": true},
+  "mode": "hybrid",
+  "generate": false
+}

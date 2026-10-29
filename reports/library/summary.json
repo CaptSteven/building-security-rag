@@ -1,0 +1,49 @@
+{
+  "verified_at": "2026-10-27T08:51:01.497943+00:00",
+  "unique_readable_pdfs": 110,
+  "physical_pdf_files": 110,
+  "duplicate_content_files": 0,
+  "pdf_pages": 1888,
+  "bytes": 298661382,
+  "by_category": {
+    "入侵报警": 26,
+    "门禁": 26,
+    "对讲": 18,
+    "视频监控": 40
+  },
+  "by_brand": {
+    "OPTEX": 26,
+    "AXIS": 84
+  },
+  "by_document_type": {
+    "datasheet": 61,
+    "manual": 4,
+    "installation": 34,
+    "wiring": 7,
+    "user_manual": 3,
+    "comparison": 1
+  },
+  "indexed_text_pages": 1888,
+  "cleaned_text_pages": 1888,
+  "cleaned_documents": 110,
+  "quality_flagged_pages": 550,
+  "processing_runs": [
+    "cleaning_20261027T084605Z"
+  ],
+  "manual_or_failed": 7,
+  "runs": [
+    {
+      "run_id": "bulk_pdf_20261027T074245Z",
+      "manifest": "data/metadata/runs/bulk_pdf_20261027T074245Z/manifest.json",
+      "manifest_sha256": "2ac881e4df1dfa2c76b77d376bcd68087669392bc550c7b465740f7dd4ed08df"
+    },
+    {
+      "run_id": "security_sample_20261027T070841Z",
+      "manifest": "data/metadata/runs/security_sample_20261027T070841Z/manifest.json",
+      "manifest_sha256": "0a1d5c3250848e1088a82b662a11d117f9375ede04495e2db50ff72652024d85"
+    }
+  ],
+  "sqlite_integrity": "ok",
+  "sqlite_sha256": "6595673a857a6bcd91b9971fff7a205577527300312d0634112a14bf49ff21b5",
+  "scope": "官方设备资料小样本，含历史产品与系列共用文档；不代表市场占有率抽样。"
+}

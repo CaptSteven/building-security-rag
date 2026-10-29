@@ -1,0 +1,4 @@
+CREATE EXTENSION IF NOT EXISTS vector;
+
+CREATE TABLE IF NOT EXISTS kb_settings (
+key text PRIMARY KEY, value text NOT NULL);
