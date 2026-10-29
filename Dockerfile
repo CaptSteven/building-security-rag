@@ -15,7 +15,7 @@ COPY pipelines/deployment/ pipelines/deployment/
 COPY database/snapshots/ database/snapshots/
 RUN uv run --no-sync python -m pipelines.deployment.snapshot restore
 COPY --from=frontend /build/frontend/dist/ frontend/dist/
-ENV REMOTE_PDF_ENABLED=true PYTHONUNBUFFERED=1
+ENV REMOTE_PDF_ENABLED=true PYTHONUNBUFFERED=1 SECURITY_RAG_ROOT=/app
 RUN useradd --create-home appuser && chown -R appuser:appuser /app
 USER appuser
 EXPOSE 10000

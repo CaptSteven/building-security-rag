@@ -1,7 +1,8 @@
 from functools import lru_cache
 from pathlib import Path
+import os
 
-PROJECT_ROOT = Path(__file__).resolve().parents[3]
+PROJECT_ROOT = Path(os.environ.get("SECURITY_RAG_ROOT", Path(__file__).resolve().parents[3])).resolve()
 from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 

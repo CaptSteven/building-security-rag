@@ -47,3 +47,14 @@ def test_remote_pdf_checks_hash_and_redirect_host(monkeypatch):
     assert seen == ['www.axis.com', 'www.axis.com', 'www.axis.com']
     with pytest.raises(HTTPException):
         remote_pdf.check_url('https://www.axis.com@127.0.0.1/manual.pdf')
+
+
+def test_packaged_install_can_set_project_root(tmp_path):
+    import os
+    import subprocess
+    import sys
+    env = {**os.environ, 'SECURITY_RAG_ROOT': str(tmp_path)}
+    output = subprocess.check_output([sys.executable, '-c',
+        'from security_rag.config import PROJECT_ROOT, Settings; print(PROJECT_ROOT); print(Settings().library_database)'],
+        env=env, text=True).splitlines()
+    assert output == [str(tmp_path), str(tmp_path / 'database/sqlite/library.sqlite3')]

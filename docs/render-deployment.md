@@ -33,3 +33,5 @@ docker run --rm -p 10000:10000 sentinel-security-rag:render
 ```
 
 来源：[Docker 部署](https://render.com/docs/docker)、[Blueprint 配置](https://render.com/docs/blueprint-spec)、[免费限制](https://render.com/docs/free)。
+
+容器通过 SECURITY_RAG_ROOT=/app 明确指定运行根目录；打包安装时不能依赖 site-packages 文件层级推导工作区。
