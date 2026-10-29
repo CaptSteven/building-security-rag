@@ -1,0 +1,86 @@
+{
+  "url": "https://sentinel-security-rag.onrender.com",
+  "service_id": "srv-dbhfu6o473hc739sultg",
+  "deploy_id": "dep-dbhfv3lg1s2s73a018h0",
+  "deployed_commit": "de9d23d7eee58947aebcf8a5beac01fa0b2d03a7",
+  "render_status": "Deploy succeeded | Live",
+  "plan": "Free",
+  "region": "Oregon",
+  "health": {
+    "status": 200,
+    "body": {
+      "status": "ok",
+      "mode": "read_only_demo"
+    }
+  },
+  "summary": {
+    "documents": 110,
+    "pdf_pages": 1888,
+    "bytes": 298661382,
+    "extracted_documents": 110,
+    "extracted_pages": 1888,
+    "pending_documents": 0,
+    "attention": 7,
+    "categories": {
+      "入侵报警": 26,
+      "门禁": 26,
+      "对讲": 18,
+      "视频监控": 40
+    },
+    "brands": {
+      "OPTEX": 26,
+      "AXIS": 84
+    },
+    "kinds": {
+      "datasheet": 61,
+      "manual": 4,
+      "installation": 34,
+      "wiring": 7,
+      "user_manual": 3,
+      "comparison": 1
+    },
+    "groups": 63,
+    "runs": [
+      {
+        "run_id": "security_sample_20261027T070841Z",
+        "manifest_path": "data/metadata/runs/security_sample_20261027T070841Z/manifest.json",
+        "manifest_sha256": "0a1d5c3250848e1088a82b662a11d117f9375ede04495e2db50ff72652024d85"
+      },
+      {
+        "run_id": "bulk_pdf_20261027T074245Z",
+        "manifest_path": "data/metadata/runs/bulk_pdf_20261027T074245Z/manifest.json",
+        "manifest_sha256": "2ac881e4df1dfa2c76b77d376bcd68087669392bc550c7b465740f7dd4ed08df"
+      }
+    ],
+    "clean_documents": 110,
+    "clean_pages": 1888,
+    "quality_flagged_pages": 550,
+    "quality_flagged_documents": 66,
+    "reviewed_documents": 0,
+    "chunk_documents": 0,
+    "vector_documents": 0
+  },
+  "raw_search_evidence": 6,
+  "cleaned_search_evidence": 6,
+  "quality_csv": {
+    "status": 200,
+    "body": {
+      "rows": 550
+    }
+  },
+  "pdf": {
+    "status": 200,
+    "asset_id": "A008",
+    "sha256": "6f2a35a7510b528c8a7b3bd7c80cee0d5eb9fd38543e679c0fe73e3d722ee1fb",
+    "bytes": 1385512
+  },
+  "initial_deploy": "Canceled after health 503; fixed installed package root with SECURITY_RAG_ROOT=/app",
+  "tests": "29 passed, 1 skipped",
+  "docker_build": "passed on Render",
+  "scope": "Read-only demo; no vector index or model generation enabled",
+  "browser_checks": [
+    "SunBrowser live homepage shows 110 documents / 1888 pages",
+    "OSDP cleaned layer displays 6 evidence records",
+    "OSDP S1 evidence opens A1601 PDF page 2 of 2 and renders successfully"
+  ]
+}

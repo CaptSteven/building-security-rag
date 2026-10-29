@@ -35,3 +35,12 @@ docker run --rm -p 10000:10000 sentinel-security-rag:render
 来源：[Docker 部署](https://render.com/docs/docker)、[Blueprint 配置](https://render.com/docs/blueprint-spec)、[免费限制](https://render.com/docs/free)。
 
 容器通过 SECURITY_RAG_ROOT=/app 明确指定运行根目录；打包安装时不能依赖 site-packages 文件层级推导工作区。
+
+## 已上线记录（2026-10-29）
+
+- URL：https://sentinel-security-rag.onrender.com/
+- Render Service：srv-dbhfu6o473hc739sultg；Free / Oregon；无付费磁盘和数据库。
+- 成功部署：dep-dbhfv3lg1s2s73a018h0；代码提交 de9d23d7eee58947aebcf8a5beac01fa0b2d03a7。
+- 首次部署健康检查 503，已取消；修复打包安装后的根目录解析后重新构建并上线。
+- 云端检查：健康 200，110 份 / 1,888 页，两层 OSDP 查询各 6 条证据，核验 CSV 550 行，抽查 PDF 哈希一致。详见 reports/deployment/render_20261029/cloud-verification.json。
+- 以 Public Git Repository 导入并手动部署。未连接 GitHub App；后续 push 不保证触发自动部署，更新时在 Dashboard 使用 Manual Deploy → Deploy latest commit。

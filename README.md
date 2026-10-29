@@ -94,3 +94,7 @@ uv run uvicorn security_rag.api:app --host 127.0.0.1 --port 8000
 免费托管方案与上线前需要完成的适配，见 [部署方案调研（2026-10-29）](docs/free-deployment.md)。
 
 Render 只读展示部署：[配置与数据恢复说明](docs/render-deployment.md)，使用根目录 render.yaml 和 Dockerfile。云端是否上线以 Render 实际部署状态为准。
+
+## 在线演示
+
+[打开 Sentinel 安保资料工作台](https://sentinel-security-rag.onrender.com/)（Render Free）。已上线资料目录、逐页关键词检索、质量追溯与原件预览；向量检索及模型生成未开放。免费实例闲置后会休眠，首次访问需等待唤醒。云端验证记录见 reports/deployment/render_20261029/cloud-verification.json。
