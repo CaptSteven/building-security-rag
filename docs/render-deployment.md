@@ -48,3 +48,5 @@ docker run --rm -p 10000:10000 sentinel-security-rag:render
 ## DeepSeek 接入更新
 
 设置页支持用户自己的会话 Key，/ask 启用有引用的回答；后端仍不提供写入数据库管理接口，未开放向量查询。服务不需要配置或公布公共 DeepSeek Key。
+
+DeepSeek 版本已于 2026-10-29 部署成功：提交 cdfc51c2def659f97c86090a1954153c3c346bd0，部署 dep-dbhv6hoae00c739uhm1g。线上健康检查 200，/ask 和 /deepseek/check 无 Key 返回 401，无证据请求确认跳过生成。真实付费生成尚待用户在页面输入有效 Key 后验收，详见 reports/development/deepseek_20261029/verification.json。

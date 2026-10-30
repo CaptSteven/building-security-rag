@@ -15,7 +15,20 @@
     "Generation toggle enabled after session configuration",
     "No-evidence ask displays no_evidence and request ID without upstream request",
     "JSON record downloads successfully",
-    "Page reload disables generation and clears session key"
+    "Page reload disables generation and clears session key",
+    "Live settings page shows BYOK form; no console errors observed"
   ],
-  "export_secret_check": "passed"
+  "export_secret_check": "passed",
+  "deployment_commit": "cdfc51c",
+  "deployment_status": "Deploy succeeded | Live",
+  "deploy_id": "dep-dbhv6hoae00c739uhm1g",
+  "url": "https://sentinel-security-rag.onrender.com",
+  "cloud_checks": {
+    "health": 200,
+    "ask_without_key": 401,
+    "check_without_key": 401,
+    "top_model": "A1210",
+    "no_evidence_generation": "no_evidence",
+    "real_paid_call_made": false
+  }
 }
