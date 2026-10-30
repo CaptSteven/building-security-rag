@@ -1,0 +1,6 @@
+{
+  "question": "Does A1210 support PoE?",
+  "text_source": "cleaned",
+  "top_k": 6,
+  "model": "deepseek-flash"
+}

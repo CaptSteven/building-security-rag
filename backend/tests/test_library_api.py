@@ -79,3 +79,14 @@ def test_cleaned_layer_and_processing_quality_are_separate(local_library):
     assert processing['latest']['processing_run_id']=='clean-test'
     assert processing['examples'][0]['page']==1
     assert 'possible_fused_words' in local_library.get('/api/library/processing/quality.csv').text
+
+
+def test_exact_model_ranks_above_long_generic_page(local_library):
+    from security_rag.library import settings
+    with sqlite3.connect(settings().library_database) as db:
+        db.execute('INSERT INTO devices VALUES(?,?,?,?,?,?)',('run','other','AXIS','Test-CAM-B','视频监控','https://example.com/other'))
+        db.execute("UPDATE assets SET device_id='other' WHERE asset_id='A2'")
+        db.execute('INSERT INTO pages VALUES(?,?,?,?,?)',('run','A2',1,'Other device PoE. '*300,'h2'))
+    result=local_library.post('/api/library/search',json={'question':'Does Test-CAM support PoE?'}).json()
+    assert result['evidence'][0]['asset_id']=='A1'
+    assert result['evidence'][0]['retrieval_score']>result['evidence'][1]['retrieval_score']

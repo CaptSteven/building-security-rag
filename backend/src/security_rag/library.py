@@ -153,7 +153,8 @@ class SearchBody(BaseModel):
 def search(body:SearchBody):
     question=body.question.strip()
     if not question:raise HTTPException(422,'请输入有效问题或关键词')
-    terms=list(dict.fromkeys([question,*re.findall(r'[A-Za-z0-9][A-Za-z0-9_.-]{1,}',question)]))[:12]
+    stopwords={'the','and','does','this','that','with','have','has','can','for','what','which','support','supports','how','its','are','not'}
+    terms=list(dict.fromkeys([question,*[word for word in re.findall(r'[A-Za-z0-9][A-Za-z0-9_.-]{1,}',question) if word.lower() not in stopwords]]))[:12]
     condition=' OR '.join('instr(lower(p.text),lower(?))>0' for _ in terms)
     args=list(terms)
     if body.category:condition='('+condition+') AND d.category=?';args.append(body.category)
@@ -162,11 +163,13 @@ def search(body:SearchBody):
         if not db.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name=?",(table,)).fetchone():
             raise HTTPException(409,'该文本层尚未建立，请先使用原始提取文本')
         counts=db.execute('SELECT count(DISTINCT run_id||\':\'||asset_id),count(*) FROM '+table).fetchone()
-        # 原始页文本的关键词查询；不伪装成向量或 BM25。
+        # 型号命中优先，其次比较页内命中词数；保留确定性顺序，不声称为语义检索。
+        score='+'.join("(CASE WHEN instr(' '||lower(d.model)||' ',' '||lower(?)||' ')>0 THEN 100 WHEN instr(lower(d.model),lower(?))>0 THEN 10 ELSE 0 END + CASE WHEN instr(lower(p.text),lower(?))>0 THEN 1 ELSE 0 END)" for _ in terms)
+        score_args=[item for term in terms for item in (term,term,term)]
         rows=db.execute("""SELECT p.page,p.text,a.run_id,a.asset_id,a.title,a.sha256,
-            a.metadata_json,d.brand,d.model,d.category, """+("p.flags_json" if body.text_source=="cleaned" else "'[]'")+""" AS flags_json FROM """+table+""" p
+            a.metadata_json,d.brand,d.model,d.category, """+("p.flags_json" if body.text_source=="cleaned" else "'[]'")+""" AS flags_json, ("""+score+""") AS retrieval_score FROM """+table+""" p
             JOIN assets a USING(run_id,asset_id) JOIN devices d ON d.run_id=a.run_id AND d.device_id=a.device_id
-            WHERE a.status='downloaded' AND ("""+condition+') ORDER BY length(p.text) DESC,a.run_id,a.asset_id,p.page LIMIT ?',[*args,body.top_k*5]).fetchall()
+            WHERE a.status='downloaded' AND ("""+condition+') ORDER BY retrieval_score DESC,length(p.text) DESC,a.run_id,a.asset_id,p.page LIMIT ?',[*score_args,*args,body.top_k*5]).fetchall()
     results=[]
     for row in rows:
         r=dict(row);meta=json.loads(r.pop('metadata_json'));text=r.pop('text');r['quality_flags']=json.loads(r.pop('flags_json'))
@@ -193,7 +196,7 @@ def connections():
     cfg=settings()
     return dict(library='connected',chat_configured=bool(cfg.chat_api_key),chat_model=cfg.chat_model,
                 embedding_configured=cfg.embedding_model!='replace-with-your-embedding-model',
-                vector_status='not_indexed',authentication_enabled=bool(cfg.api_key),
+                vector_status='not_indexed',authentication_enabled=bool(cfg.api_key),deepseek_byok=True,
                 note='配置状态不代表 API 连通性。当前页面检索使用 SQLite 关键词查询；PostgreSQL 向量问答仍由 /query 接口提供。')
 
 

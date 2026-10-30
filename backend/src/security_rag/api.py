@@ -98,3 +98,6 @@ app.include_router(library_router, dependencies=[Depends(authorize)])
 @app.get("/api/health")
 def local_health():
     return {"status": "ok", "service": "building-security-rag", "version": "0.2.0"}
+
+from .deepseek import router as deepseek_router
+app.include_router(deepseek_router, dependencies=[Depends(authorize)])

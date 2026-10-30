@@ -29,6 +29,8 @@ uv run python backend/dev.py
 | GET /api/library/documents/{run_id}/{asset_id} | 元数据与少量提取文本预览 |
 | GET /api/library/documents/{run_id}/{asset_id}/file | 返回清单中已登记的 PDF 原件 |
 | POST /api/library/search | text_source=raw/cleaned 选择页文本关键词查询，可选基于证据生成回答 |
+| POST /api/library/ask | 使用会话 DeepSeek Key，检索后生成有引用的回答 |
+| POST /api/library/deepseek/check | 读取官方模型列表验证 Key 连通性 |
 | GET /api/library/connections | 配置状态，不返回密钥，不声称远程服务已连通 |
 | GET /api/library/processing | 最新清洗批次、规则、质量标记和样例 |
 | GET /api/library/processing/quality.csv | 导出有标记的逐页核验清单 |
@@ -49,3 +51,5 @@ uv run python backend/dev.py
 `uv run --group collection pytest -q`；`npm --prefix frontend run build`。
 
 端到端检查涵盖：浏览器查看真实统计 → 类别筛选 → 打开 PDF → 翻页 → 关键词检索 → 引用回到原件 → CSV 导出。远程聊天 API、PostgreSQL 和向量问答仍需配置后单独验证。
+
+DeepSeek 会话密钥入口、限流、脱敏审计、导出记录及真实调用验证边界见 deepseek-api.md。/ask 使用 X-DeepSeek-Key，与后端 X-API-Key 分离。

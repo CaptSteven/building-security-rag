@@ -1,0 +1,21 @@
+{
+  "tests": "43 passed, 1 skipped",
+  "build": "passed",
+  "real_corpus_retrieval": {
+    "question": "Does A1210 support PoE?",
+    "top_model": "A1210",
+    "top_asset": "A004",
+    "retrieval_score": 102
+  },
+  "mocked_generation_with_real_evidence": "completed; no paid API called",
+  "real_deepseek_generation": "not verified: no real user API key supplied",
+  "secrets_written_to_reports": false,
+  "browser_checks": [
+    "Settings applies fictional session key without upstream request",
+    "Generation toggle enabled after session configuration",
+    "No-evidence ask displays no_evidence and request ID without upstream request",
+    "JSON record downloads successfully",
+    "Page reload disables generation and clears session key"
+  ],
+  "export_secret_check": "passed"
+}

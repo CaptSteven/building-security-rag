@@ -110,3 +110,7 @@ RAG_TEST_DATABASE_URL=postgresql://rag:rag_local_only@127.0.0.1:55432/security_r
 详细领域字段和验收范围见 `../docs/domain.md`。
 
 参考：[DeepSeek 官方接口](https://api-docs.deepseek.com/)；[pgvector 官方项目](https://github.com/pgvector/pgvector)。
+
+## DeepSeek 会话 API
+
+新增 POST /api/library/ask 和 POST /api/library/deepseek/check，通过 X-DeepSeek-Key 使用用户自己的官方 Key。完整请求、响应、限流及脱敏记录约定见 docs/deepseek-api.md。原有本地 CHAT_* 环境配置保留；线上 /ask 不回退到服务器公共 Key。

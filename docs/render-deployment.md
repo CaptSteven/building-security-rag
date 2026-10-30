@@ -9,7 +9,7 @@
 - 构建镜像时恢复快照；已有不同数据库时拒绝覆盖。重启不依赖临时磁盘的历史写入。
 - Docker 镜像不包含原始 PDF。缺少本地 PDF 时，仅在 REMOTE_PDF_ENABLED=true 的部署中按登记的官方 URL 读取。限制 HTTPS 厂商域名、逐跳重定向、大小与时间，检查 PDF 签名和采集时 SHA-256。官方文件变化时明确报错，不混入新版本。
 - 原件最多 48 MiB 进程内缓存，重启后可丢弃；不写入 raw/，不改变原件或清单。
-- 部署入口只注册资料查询接口，不暴露 /documents、/compatibility 等写入接口。模型生成强制关闭，CHAT_API_KEY 留空。PostgreSQL、切分和向量化尚未接入。
+- 部署入口只注册资料查询接口，不暴露 /documents、/compatibility 等写入接口。旧 /search 路由的服务器公共模型生成继续关闭，CHAT_API_KEY 留空。新 /ask 仅接受用户自己的会话 Key，固定调用官方 DeepSeek；限流和调用范围见 deepseek-api.md。PostgreSQL、切分和向量化尚未接入。
 
 ## 在 Render 开通
 
@@ -44,3 +44,7 @@ docker run --rm -p 10000:10000 sentinel-security-rag:render
 - 首次部署健康检查 503，已取消；修复打包安装后的根目录解析后重新构建并上线。
 - 云端检查：健康 200，110 份 / 1,888 页，两层 OSDP 查询各 6 条证据，核验 CSV 550 行，抽查 PDF 哈希一致。详见 reports/deployment/render_20261029/cloud-verification.json。
 - 以 Public Git Repository 导入并手动部署。未连接 GitHub App；后续 push 不保证触发自动部署，更新时在 Dashboard 使用 Manual Deploy → Deploy latest commit。
+
+## DeepSeek 接入更新
+
+设置页支持用户自己的会话 Key，/ask 启用有引用的回答；后端仍不提供写入数据库管理接口，未开放向量查询。服务不需要配置或公布公共 DeepSeek Key。

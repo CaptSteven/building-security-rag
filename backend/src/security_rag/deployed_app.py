@@ -40,6 +40,8 @@ def create_app(static_directory=None):
         return {'status': 'ok', 'mode': 'read_only_demo'}
 
     app.include_router(router, dependencies=[Depends(authorize)])
+    from .deepseek import router as deepseek_router
+    app.include_router(deepseek_router, dependencies=[Depends(authorize)])
     directory = Path(static_directory or os.environ.get('FRONTEND_DIST', 'frontend/dist'))
     app.mount('/', StaticFiles(directory=directory, html=True), name='frontend')
     return app
