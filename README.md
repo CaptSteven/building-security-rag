@@ -1,4 +1,12 @@
-# 楼宇安保设备 RAG 知识库
+# Sentinel · 楼宇安保设备知识库
+
+> 面向楼宇安保资料的工作台：浏览官方文档、预览 PDF，并检索可追溯的关键词证据。
+
+**技术栈：** React / TypeScript / Vite · Python · SQLite · PostgreSQL
+
+**使用边界：** 原始 PDF 和数据库未包含在公开仓库；向量检索尚未开放，克隆后需按文档恢复数据。
+
+---
 
 前端、后端、离线数据处理、数据库及数据文件分开管理。现有 110 份经 SHA-256 去重的官方 PDF，覆盖四类设备，共 1,888 页，约 299 MB。110 份 PDF 的 1,888 页均已提取并完成保守格式清洗；186 页发生格式变化，550 页有自动核验标记（涉及 66 份资料）。人工核验尚未完成，未切分或向量化。独立前端已实现，支持资料浏览、PDF 预览、来源追溯和关键词证据检索。
 
@@ -42,8 +50,8 @@ RAG/
 ## 资料入口
 
 - [资料目录和文件链接](reports/library/README.md)
-- [清洗切分前的 PDF 原件](data/raw/pdfs/)
-- [SQLite 资料目录库](database/sqlite/library.sqlite3)
+- PDF 原件：不随公开仓库分发，恢复步骤见 [GitHub 上传范围](docs/github.md)。
+- SQLite 资料目录库：不随公开仓库分发，需按恢复说明重建。
 - [资料清单](reports/library/catalog.json)
 - [未成功下载与待人工处理清单](reports/library/MANUAL_ACTIONS.md)
 
@@ -100,3 +108,5 @@ Render 只读展示部署：[配置与数据恢复说明](docs/render-deployment
 [打开 Sentinel 安保资料工作台](https://sentinel-security-rag.onrender.com/)（Render Free）。已上线资料目录、逐页关键词检索、质量追溯与原件预览；向量检索尚未开放；DeepSeek 问答可使用自己的会话 Key 启用。免费实例闲置后会休眠，首次访问需等待唤醒。云端验证记录见 reports/deployment/render_20261029/cloud-verification.json。
 
 DeepSeek 直接接入：[网页操作、API 请求与验证范围](docs/deepseek-api.md)。Key 只在本次页面会话中保留，生成按本人账户实际用量计费。
+
+<!-- 更新备注：YANG KAISEN，2026-11-11；改写与核对依据见工作区变更记录。 -->
